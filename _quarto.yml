@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Lingwei's Homepage"
+author-meta: "Lingwei Zheng"
 
 website:
-  title: "Quarto Academic"
+  title: "Lingwei Zheng"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Lingwei's Homepage"
  
   navbar:
     background: light
@@ -58,11 +58,11 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[Lingwei Zheng](http://lingwei-zheng.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/lingwei-zheng
         target: _blank
       - text: "{{< fa brands bluesky >}}" 
         href: https://bsky.app
@@ -79,7 +79,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/lingwei-zheng/lingwei-zheng.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -87,7 +87,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://lingwei-zheng.github.io"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
