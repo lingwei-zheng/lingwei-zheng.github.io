@@ -15,8 +15,8 @@ website:
     background: light
 
     left:
-#      - text: Home
-#        href: index.qmd
+      - text: Home
+        href: index.qmd
       - text: About
         menu:
           - text: News
