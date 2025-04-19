@@ -1,0 +1,48 @@
+---
+title: "How mobility pattern shapes the association between static green space and dynamic green space exposure"
+description: "We examine how mobility affects static-dynamic green space exposure association."
+subtitle: "*Environmental Research*"
+author: 
+  - name: Lingwei Zheng
+  - name: Mei-Po Kwan
+  - name: Yang Liu
+  - name: Dong Liu
+  - name: Jianwei Huang
+  - name: Zihan Kan
+date: "2024-06-26"
+categories: [paper]
+image: "feature1.jpg"
+citation:
+  type: article-journal
+  container-title: "Environmental Research"
+  doi: "10.1016/j.envres.2024.119499"
+  available-date: "2024-06-26"
+  volume: 258
+  page: 119499
+  url: https://doi.org/10.1016/j.envres.2024.119499
+google-scholar: true
+---
+
+<!-- Academic identity links, e.g., ORCID / Google Scholar / ResearchGate -->
+
+{{< include /files/includes/_academic.qmd >}}
+
+## Abstract
+
+Greenspaces are crucial for enhancing mental and physical health. Recent research has shifted from static methods of assessing exposure to greenspaces, based on fixed locations, to dynamic approaches that account for individual mobility. These dynamic evaluations utilize advanced technologies like GPS tracking and remote sensing to provide more precise exposure estimates. However, little work has been conducted to compare dynamic and static exposure assessments and the effect of individual mobility on these evaluations. This study delves into how greenspaces around homes and workplaces, along with mobility patterns, affect dynamic greenspace exposure in Hong Kong. Data was collected from 787 participants in four communities in Hong Kong using GPS, portable sensors, and surveys. Using multiple statistical tests, our study revealed significant variations in participants' daily mobility patterns across socio-demographic and temporal factors. Further, using linear mixed-effects models, we identified complex and statistically significant interactions between participants’ static greenspace exposure and their mobility patterns. Our findings suggest that individual mobility patterns significantly modify the relationship between static and dynamic greenspace exposure and play a critical role in explaining socio-demographic and temporal context differences in the relationship between static and dynamic greenspace exposure.
+
+## Links
+
+Published [paper](https://doi.org/10.1016/j.envres.2024.119499)
+
+## Metrics
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.envres.2024.119499"></div>
+
+<span class="__dimensions_badge_embed__" 
+      data-doi="10.1016/j.envres.2024.119499" 
+      data-hide-zero-citations="true" 
+      data-style="small_circle"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

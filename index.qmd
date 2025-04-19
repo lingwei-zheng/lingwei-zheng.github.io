@@ -54,7 +54,6 @@ listing:
   - id: recent-posts
     contents: 
       - posts
-      - posts/post-links.yml
     exclude:
       title: ""
     type: grid
@@ -92,29 +91,36 @@ I am a researcher in geoinformatics and spatial data science pursuing a PhD in t
 I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:
 
 1.  How urban characteristics influence mobility and public well-being.
-
 2.  The application of spatial data science and machine learning in urban studies.
-
 3.  Advancing methods for spatial analysis and causal inference in human-environment interactions.
 
 <!-- ## Experience -->
 
 <!-- - Researcher, Univerisity -->
 
-## Education
+### Education
 
--   [2022.08 ~ Present] --- **Doctor of Philosophy**
-    -   Geography and Resource Management, at [GRM](https://www.grm.cuhk.edu.hk/en/)
-    -   The Chinese University of Hong Kong, Hong Kong, China
--   [2020.10 ~ 2021.12] --- **Master of Research**
-    -   Spatial Data Science, at [CASA](https://www.ucl.ac.uk/bartlett/casa)
-    -   University College London, London, United Kingdom
--   [2016.09 ~ 2020.08] --- **Bachelor of Social Science**
-    -   Environment and Development, at [College of APS](https://en.apu.ac.jp/st/)
-    -   Ritsumeikan Asia Pacific University, Beppu, Japan
+<!-- -   [2022.08 ~ Present] --- **Doctor of Philosophy** -->
+<!--     -   Geography and Resource Management, at [GRM](https://www.grm.cuhk.edu.hk/en/) -->
+<!--     -   The Chinese University of Hong Kong, Hong Kong, China -->
+<!-- -   [2020.10 ~ 2021.12] --- **Master of Research** -->
+<!--     -   Spatial Data Science, at [CASA](https://www.ucl.ac.uk/bartlett/casa) -->
+<!--     -   University College London, London, United Kingdom -->
+<!-- -   [2016.09 ~ 2020.08] --- **Bachelor of Social Science** -->
+<!--     -   Environment and Development, at [College of APS](https://en.apu.ac.jp/st/) -->
+<!--     -   Ritsumeikan Asia Pacific University, Beppu, Japan -->
+
+- Geography, PhD Candidate, The Chinese University of Hong Kong
+- Spatial Data Science, MRes, University College London
+- Environment and Development, BSc, Ritsumeikan Asia Pacific University
+
+
+
 :::
 
-## Recent Posts
+<div style="margin-bottom: 2.5em;"></div>
+
+### Recent Posts
 
 Check out the latest  [Papers](posts.qmd#category=paper) ,  [News](posts.qmd#category=news) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
 

@@ -1,0 +1,21 @@
+---
+title: "Your News Title Here"
+description: "One-line summary of the news item"
+author: "News"
+date: "1998-09-028"
+categories: [news]
+image: "/files/images/your-placeholder.jpg"
+#draft: true  # Uncomment if this is a draft
+---
+
+## Summary
+
+Write a short summary of the news here. This could be an update about a talk, award, media appearance, funding announcement, collaboration, or any milestone.
+
+## Details
+
+Expand on the news item if needed. Add images, quotes, links, or anything else you'd like.
+
+## Share
+
+{{< include /files/includes/_socialshare.qmd >}}

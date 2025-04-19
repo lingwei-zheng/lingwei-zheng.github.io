@@ -6,19 +6,19 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Lingwei Zheng**
 
-School
+Department of Geography and Resource Management
 
-College
+Faculty of Social Science
 
-University
+The Chinese University of Hong Kong
 
-Address: 
+ISEIS210, Fok Ying Tung Remote Sensing Science Building
 
-Phone: 
+Shatin, N.T., Hong Kong
 
-E-mail: 
+E-mail: lingwei.zhenng@link.cuhk.edu.hk
 
 
 </center>

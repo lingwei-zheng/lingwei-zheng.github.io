@@ -35,46 +35,95 @@
     "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "objectID": "posts/template-paper/index.html#abstract",
+    "href": "posts/template-paper/index.html#abstract",
+    "title": "Paper Title Here",
     "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+    "text": "Abstract\nWrite the abstract of your paper here. This section should summarize the main contributions and findings of the paper in a concise way, suitable for a general academic audience."
   },
   {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "objectID": "posts/template-paper/index.html#links",
+    "href": "posts/template-paper/index.html#links",
+    "title": "Paper Title Here",
     "section": "Links",
     "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "posts/template-paper/index.html#metrics",
+    "href": "posts/template-paper/index.html#metrics",
+    "title": "Paper Title Here",
+    "section": "Metrics",
+    "text": "Metrics"
+  },
+  {
+    "objectID": "posts/template-events/index.html",
+    "href": "posts/template-events/index.html",
+    "title": "Event Title Here",
+    "section": "",
+    "text": "Provide a brief description of the event, your role, and any context. For example:\n\nI gave a keynote talk at the 2025 International Conference on Urban Data Science, held in Tokyo, Japan."
+  },
+  {
+    "objectID": "posts/template-events/index.html#overview",
+    "href": "posts/template-events/index.html#overview",
+    "title": "Event Title Here",
+    "section": "",
+    "text": "Provide a brief description of the event, your role, and any context. For example:\n\nI gave a keynote talk at the 2025 International Conference on Urban Data Science, held in Tokyo, Japan."
+  },
+  {
+    "objectID": "posts/template-events/index.html#details",
+    "href": "posts/template-events/index.html#details",
+    "title": "Event Title Here",
+    "section": "Details",
+    "text": "Details\n\n📍 Location: City, Country or Institution\n🕒 Date: January 1, 2025\n🎤 Role: Speaker / Panelist / Organizer / Attendee\n🔗 Event Link"
+  },
+  {
+    "objectID": "posts/template-events/index.html#poster-visual",
+    "href": "posts/template-events/index.html#poster-visual",
+    "title": "Event Title Here",
+    "section": "Poster / Visual",
+    "text": "Poster / Visual"
+  },
+  {
+    "objectID": "posts/template-events/index.html#share",
+    "href": "posts/template-events/index.html#share",
+    "title": "Event Title Here",
+    "section": "Share",
+    "text": "Share"
+  },
+  {
+    "objectID": "posts/paper3/index.html#abstract",
+    "href": "posts/paper3/index.html#abstract",
+    "title": "How mobility pattern shapes the association between static green space and dynamic green space exposure",
+    "section": "Abstract",
+    "text": "Abstract\nGreenspaces are crucial for enhancing mental and physical health. Recent research has shifted from static methods of assessing exposure to greenspaces, based on fixed locations, to dynamic approaches that account for individual mobility. These dynamic evaluations utilize advanced technologies like GPS tracking and remote sensing to provide more precise exposure estimates. However, little work has been conducted to compare dynamic and static exposure assessments and the effect of individual mobility on these evaluations. This study delves into how greenspaces around homes and workplaces, along with mobility patterns, affect dynamic greenspace exposure in Hong Kong. Data was collected from 787 participants in four communities in Hong Kong using GPS, portable sensors, and surveys. Using multiple statistical tests, our study revealed significant variations in participants’ daily mobility patterns across socio-demographic and temporal factors. Further, using linear mixed-effects models, we identified complex and statistically significant interactions between participants’ static greenspace exposure and their mobility patterns. Our findings suggest that individual mobility patterns significantly modify the relationship between static and dynamic greenspace exposure and play a critical role in explaining socio-demographic and temporal context differences in the relationship between static and dynamic greenspace exposure."
+  },
+  {
+    "objectID": "posts/paper3/index.html#links",
+    "href": "posts/paper3/index.html#links",
+    "title": "How mobility pattern shapes the association between static green space and dynamic green space exposure",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "posts/paper3/index.html#metrics",
+    "href": "posts/paper3/index.html#metrics",
+    "title": "How mobility pattern shapes the association between static green space and dynamic green space exposure",
+    "section": "Metrics",
+    "text": "Metrics"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Lingwei ZHENG",
     "section": "",
-    "text": "ISEIS\n  \n  \n    \n     GRM\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      Twitter/X\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n\n  \n  \n\n\n\n\n\n\n\n\n\nI am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management (GRM) at The Chinese University of Hong Kong. I also serve as a research fellow at the Computational Social Science Laboratory (CSSL@CUHK) and Institute of Space and Earth Information Science (ISEIS).\nI am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:\n\nHow urban characteristics influence mobility and public well-being.\nThe application of spatial data science and machine learning in urban studies.\nAdvancing methods for spatial analysis and causal inference in human-environment interactions.\n\n\n\n\n\n\n[2022.08 ~ Present] — Doctor of Philosophy\n\nGeography and Resource Management, at GRM\nThe Chinese University of Hong Kong, Hong Kong, China\n\n[2020.10 ~ 2021.12] — Master of Research\n\nSpatial Data Science, at CASA\nUniversity College London, London, United Kingdom\n\n[2016.09 ~ 2020.08] — Bachelor of Social Science\n\nEnvironment and Development, at College of APS\nRitsumeikan Asia Pacific University, Beppu, Japan"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Lingwei ZHENG",
-    "section": "",
-    "text": "[2022.08 ~ Present] — Doctor of Philosophy\n\nGeography and Resource Management, at GRM\nThe Chinese University of Hong Kong, Hong Kong, China\n\n[2020.10 ~ 2021.12] — Master of Research\n\nSpatial Data Science, at CASA\nUniversity College London, London, United Kingdom\n\n[2016.09 ~ 2020.08] — Bachelor of Social Science\n\nEnvironment and Development, at College of APS\nRitsumeikan Asia Pacific University, Beppu, Japan"
-  },
-  {
-    "objectID": "index.html#recent-posts",
-    "href": "index.html#recent-posts",
-    "title": "Lingwei ZHENG",
-    "section": "Recent Posts",
-    "text": "Recent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\nOct 15, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\nSep 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\nJun 24, 2024\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
+    "text": "ISEIS\n  \n  \n    \n     GRM\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n      Twitter/X\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n  \n      Research Gate\n  \n\n  \n  \n\n\n\n\n\n\n\n\n\nI am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management (GRM) at The Chinese University of Hong Kong. I also serve as a research fellow at the Computational Social Science Laboratory (CSSL@CUHK) and Institute of Space and Earth Information Science (ISEIS).\nI am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:\n\nHow urban characteristics influence mobility and public well-being.\nThe application of spatial data science and machine learning in urban studies.\nAdvancing methods for spatial analysis and causal inference in human-environment interactions.\n\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\n\nGeography, PhD Candidate, The Chinese University of Hong Kong\nSpatial Data Science, MRes, University College London\nEnvironment and Development, BSc, Ritsumeikan Asia Pacific University\n\n\n\n\n\n\n\n\n\nRecent Posts\nCheck out the latest  Papers ,  News ,  Events , and  More »\n\n\n\n\n\n\n\n\n\n\nExploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic\n\n\nTravel Behaviour & Society\n\n\n\nFeb 26, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow mobility pattern shapes the association between static green space and dynamic green space exposure\n\n\nEnvironmental Research\n\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaper Title Here\n\n\nJournal Name\n\n\n\nSep 28, 1998\n\n\n\n\n\n\nNo matching items\n\n\nAll Posts »"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Quarto Academic\nSchool\nCollege\nUniversity\nAddress:\nPhone:\nE-mail:"
+    "text": "Lingwei Zheng\nDepartment of Geography and Resource Management\nFaculty of Social Science\nThe Chinese University of Hong Kong\nISEIS210, Fok Ying Tung Remote Sensing Science Building\nShatin, N.T., Hong Kong\nE-mail: lingwei.zhenng@link.cuhk.edu.hk"
   },
   {
     "objectID": "people.html",
@@ -98,25 +147,60 @@
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nStudent Name\n\n\nPhD Student\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/news-title/index.html",
-    "href": "posts/news-title/index.html",
-    "title": "News item",
-    "section": "",
-    "text": "About the news"
+    "objectID": "posts/paper4/index.html#abstract",
+    "href": "posts/paper4/index.html#abstract",
+    "title": "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic",
+    "section": "Abstract",
+    "text": "Abstract\nThe COVID-19 pandemic has drastically altered urban transportation patterns, leading to significant changes in people’s daily travel behavior. Scholars have attributed this shift to individuals’ perceived pandemic risk, suggesting that higher perceived risk discourages daily travel. However, existing research has produced mixed results regarding the relationship between perceived risk and mobility. This study aims to clarify these conflicting findings by proposing that travel flexibility moderates the relationship between perceived COVID-19 risk and daily mobility. Based on online survey data from Hong Kong and employing a logistic regression model, our findings show that the impact of perceived risk on daily mobility varies according to individuals’ levels of travel flexibility. Specifically, individuals with low travel flexibility experience a significant reduction in mobility due to perceived risk, whereas those with high travel flexibility are relatively unaffected. This research underscores the complex interplay between perceived risk, travel flexibility, and daily mobility during the COVID-19 pandemic, highlighting the critical role that travel flexibility plays in understanding the relationship between perceived risk and mobility."
   },
   {
-    "objectID": "posts/news-title/index.html#summary",
-    "href": "posts/news-title/index.html#summary",
-    "title": "News item",
+    "objectID": "posts/paper4/index.html#links",
+    "href": "posts/paper4/index.html#links",
+    "title": "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic",
+    "section": "Links",
+    "text": "Links\nPublished paper"
+  },
+  {
+    "objectID": "posts/paper4/index.html#metrics",
+    "href": "posts/paper4/index.html#metrics",
+    "title": "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic",
+    "section": "Metrics",
+    "text": "Metrics"
+  },
+  {
+    "objectID": "posts/template-news/index.html",
+    "href": "posts/template-news/index.html",
+    "title": "Your News Title Here",
     "section": "",
-    "text": "About the news"
+    "text": "Write a short summary of the news here. This could be an update about a talk, award, media appearance, funding announcement, collaboration, or any milestone."
+  },
+  {
+    "objectID": "posts/template-news/index.html#summary",
+    "href": "posts/template-news/index.html#summary",
+    "title": "Your News Title Here",
+    "section": "",
+    "text": "Write a short summary of the news here. This could be an update about a talk, award, media appearance, funding announcement, collaboration, or any milestone."
+  },
+  {
+    "objectID": "posts/template-news/index.html#details",
+    "href": "posts/template-news/index.html#details",
+    "title": "Your News Title Here",
+    "section": "Details",
+    "text": "Details\nExpand on the news item if needed. Add images, quotes, links, or anything else you’d like."
+  },
+  {
+    "objectID": "posts/template-news/index.html#share",
+    "href": "posts/template-news/index.html#share",
+    "title": "Your News Title Here",
+    "section": "Share",
+    "text": "Share"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nExploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic\n\n\nTravel Behaviour & Society\n\n\n\npaper\n\n\n\nIn Hong Kong, perceived COVID-19 risk reduced daily mobility more for those with less travel flexibility.\n\n\n\n\n\nFeb 26, 2025\n\n\nLingwei Zheng, Mei-Po Kwan, Jianwei Huang, Dong Liu\n\n\n\n\n\n\n\n\n\n\n\n\nHow mobility pattern shapes the association between static green space and dynamic green space exposure\n\n\nEnvironmental Research\n\n\n\npaper\n\n\n\nWe examine how mobility affects static-dynamic green space exposure association.\n\n\n\n\n\nJun 26, 2024\n\n\nLingwei Zheng, Mei-Po Kwan, Yang Liu, Dong Liu, Jianwei Huang, Zihan Kan\n\n\n\n\n\n\n\n\n\n\n\n\nYour News Title Here\n\n\n\n\n\n\nnews\n\n\n\nOne-line summary of the news item\n\n\n\n\n\nSep 28, 1998\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nPaper Title Here\n\n\nJournal Name\n\n\n\npaper\n\n\n\nOne-line description of the paper\n\n\n\n\n\nSep 28, 1998\n\n\nFirst Author, Second Author, You\n\n\n\n\n\n\n\n\n\n\n\n\nEvent Title Here\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nShort one-line summary of the event\n\n\n\n\n\nJan 1, 1998\n\n\nEvent\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",

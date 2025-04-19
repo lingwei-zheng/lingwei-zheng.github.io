@@ -1,0 +1,30 @@
+---
+title: "Event Title Here"
+description: "Short one-line summary of the event"
+author: "Event"
+date: "1998-01-01"
+categories: [event, presentation]  # Add more like [talk, keynote] if needed
+image: "/files/images/event-placeholder.jpg"
+#draft: true  # Uncomment if not ready to publish
+---
+
+## Overview
+
+Provide a brief description of the event, your role, and any context. For example:
+
+> I gave a keynote talk at the 2025 International Conference on Urban Data Science, held in Tokyo, Japan.
+
+## Details
+
+- 📍 **Location**: City, Country or Institution
+- 🕒 **Date**: January 1, 2025
+- 🎤 **Role**: Speaker / Panelist / Organizer / Attendee
+- 🔗 [Event Link](https://event-website.com)
+
+## Poster / Visual
+
+[![](/files/images/event-placeholder.jpg){width="90%"}](https://event-website.com)
+
+## Share
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -6,9 +6,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/paper4/index.html",
+      "/posts/paper3/index.html",
+      "/posts/template-paper/index.html",
+      "/posts/template-news/index.html",
+      "/posts/template-events/index.html"
     ]
   },
   {
@@ -18,9 +20,11 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
-      "/posts/paper-title/index.html"
+      "/posts/paper4/index.html",
+      "/posts/paper3/index.html",
+      "/posts/template-news/index.html",
+      "/posts/template-paper/index.html",
+      "/posts/template-events/index.html"
     ]
   }
 ]

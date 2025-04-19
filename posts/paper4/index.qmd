@@ -1,0 +1,38 @@
+---
+title: "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic"
+description: "In Hong Kong, perceived COVID-19 risk reduced daily mobility more for those with less travel flexibility. "
+subtitle: "*Travel Behaviour & Society*"
+author: 
+  - name: Lingwei Zheng
+  - name: Mei-Po Kwan
+  - name: Jianwei Huang
+  - name: Dong Liu
+date: "2025-02-26"
+categories: [paper]
+image: "featured.jpg"
+google-scholar: true
+---
+
+<!-- Academic identity links, e.g., ORCID / Google Scholar / ResearchGate -->
+
+{{< include /files/includes/_academic.qmd >}}
+
+## Abstract
+
+The COVID-19 pandemic has drastically altered urban transportation patterns, leading to significant changes in people’s daily travel behavior. Scholars have attributed this shift to individuals’ perceived pandemic risk, suggesting that higher perceived risk discourages daily travel. However, existing research has produced mixed results regarding the relationship between perceived risk and mobility. This study aims to clarify these conflicting findings by proposing that travel flexibility moderates the relationship between perceived COVID-19 risk and daily mobility. Based on online survey data from Hong Kong and employing a logistic regression model, our findings show that the impact of perceived risk on daily mobility varies according to individuals’ levels of travel flexibility. Specifically, individuals with low travel flexibility experience a significant reduction in mobility due to perceived risk, whereas those with high travel flexibility are relatively unaffected. This research underscores the complex interplay between perceived risk, travel flexibility, and daily mobility during the COVID-19 pandemic, highlighting the critical role that travel flexibility plays in understanding the relationship between perceived risk and mobility.
+
+## Links
+
+Published [paper](https://doi.org/10.1016/j.tbs.2025.101015)
+
+## Metrics
+
+```{=html}
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.tbs.2025.101015"></div>
+
+<span class="__dimensions_badge_embed__" 
+      data-doi="10.1016/j.tbs.2025.101015" 
+      data-hide-zero-citations="true" 
+      data-style="small_circle"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

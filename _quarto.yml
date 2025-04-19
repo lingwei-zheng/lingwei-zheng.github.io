@@ -21,8 +21,8 @@ website:
         menu:
           - text: News
             href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
+          # - text: Events
+          #   href: posts.qmd#category=event      
           - text: Contact
             href: contact.qmd             
       - text: Publication
@@ -31,18 +31,18 @@ website:
           #   href: posts.qmd#category=paper
           # - text: Grants
           #   href: projects.qmd                                
-      - text: Teaching
+      - text: Teaching & Services
         href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group
-        href: people.qmd
+      # - text: Outreach
+      #   menu:        
+      #   - text: Presentations
+      #     href: posts.qmd#category=presentation                   
+      # - text: Group
+      #   href: people.qmd
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/Lingwei_s_Resume.pdf
       - icon: github
         href: https://github.com/lingwei-zheng
         target: _blank
