@@ -4,7 +4,7 @@ subtitle: "Come and join our symposium and sessions!"
 author: "Lingwei"
 date: "2025-03-23"
 categories: [event, presentation]
-image: "/posts/202503-pre/aag2025.jpg"
+image: "aag2025.jpg"
 ---
 
 ## Overview
@@ -20,7 +20,7 @@ Join us at the AAG 2025 Annual Meeting for a symposium on *Geospatial Approaches
 
 ## The Huntington Place
 
-[![](/posts/202503-pre/aag20251.jpg){width="90%"}](https://www.aag.org/events/aag-2025/)
+[![](aag20251.jpg){width="90%"}](https://www.aag.org/events/aag-2025/)
 
 ## Share
 

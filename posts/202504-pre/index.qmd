@@ -4,7 +4,7 @@ description: "The RGS-IBG Annual International Conference regularly attracts ove
 author: "Lingwei"
 date: "2025-04-19"
 categories: [news, presentation]
-image: "/posts/pre-202504/RBG.jpg"
+image: "RBG.jpg"
 #draft: true  # Uncomment if this is a draft
 ---
 
