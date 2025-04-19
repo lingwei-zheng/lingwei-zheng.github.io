@@ -21,8 +21,8 @@ website:
       #       href: posts.qmd#category=news
       #     - text: Events
       #       href: posts.qmd#category=event
-      - text: Home
-        href: index.qmd
+      # - text: Home
+      #   href: index.qmd
       - text: News
         href: posts.qmd#category=news
       - text: Publication
