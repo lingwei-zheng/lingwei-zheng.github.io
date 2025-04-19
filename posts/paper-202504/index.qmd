@@ -8,7 +8,7 @@ author:
   - name: Jianwei Huang
   - name: Dong Liu
 date: "2025-02-26"
-categories: [paper]
+categories: [paper, news]
 image: "featured.jpg"
 google-scholar: true
 ---

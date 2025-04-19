@@ -10,7 +10,7 @@ author:
   - name: Jianwei Huang
   - name: Zihan Kan
 date: "2024-06-26"
-categories: [paper]
+categories: [paper, news]
 image: "feature1.jpg"
 citation:
   type: article-journal

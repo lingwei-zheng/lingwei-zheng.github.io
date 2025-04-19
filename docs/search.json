@@ -39,7 +39,7 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUpcoming presentation at the RGS-IBG Annual International Conference 2025\n\n\n\n\n\n\nnews\n\npresentation\n\n\n\nThe RGS-IBG Annual International Conference regularly attracts over 2,000 geographers from around the world.\n\n\n\n\n\nApr 19, 2025\n\n\nLingwei\n\n\n\n\n\n\n\n\n\n\n\n\nExploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic\n\n\nTravel Behaviour & Society\n\n\n\npaper\n\n\n\nIn Hong Kong, perceived COVID-19 risk reduced daily mobility more for those with less travel flexibility.\n\n\n\n\n\nFeb 26, 2025\n\n\nLingwei Zheng, Mei-Po Kwan, Jianwei Huang, Dong Liu\n\n\n\n\n\n\n\n\n\n\n\n\nHow mobility pattern shapes the association between static green space and dynamic green space exposure\n\n\nEnvironmental Research\n\n\n\npaper\n\n\n\nWe examine how mobility affects static-dynamic green space exposure association.\n\n\n\n\n\nJun 26, 2024\n\n\nLingwei Zheng, Mei-Po Kwan, Yang Liu, Dong Liu, Jianwei Huang, Zihan Kan\n\n\n\n\n\n\n\n\n\n\n\n\nYour News Title Here\n\n\n\n\n\n\nnews\n\n\n\nOne-line summary of the news item\n\n\n\n\n\nSep 28, 1998\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nPaper Title Here\n\n\nJournal Name\n\n\n\npaper\n\n\n\nOne-line description of the paper\n\n\n\n\n\nSep 28, 1998\n\n\nFirst Author, Second Author, You\n\n\n\n\n\n\n\n\n\n\n\n\nEvent Title Here\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nShort one-line summary of the event\n\n\n\n\n\nJan 1, 1998\n\n\nEvent\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nUpcoming presentation at the RGS-IBG Annual International Conference 2025\n\n\n\n\n\n\nnews\n\npresentation\n\n\n\nThe RGS-IBG Annual International Conference regularly attracts over 2,000 geographers from around the world.\n\n\n\n\n\nApr 19, 2025\n\n\nLingwei\n\n\n\n\n\n\n\n\n\n\n\n\nExploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic\n\n\nTravel Behaviour & Society\n\n\n\npaper\n\nnews\n\n\n\nIn Hong Kong, perceived COVID-19 risk reduced daily mobility more for those with less travel flexibility.\n\n\n\n\n\nFeb 26, 2025\n\n\nLingwei Zheng, Mei-Po Kwan, Jianwei Huang, Dong Liu\n\n\n\n\n\n\n\n\n\n\n\n\nHow mobility pattern shapes the association between static green space and dynamic green space exposure\n\n\nEnvironmental Research\n\n\n\npaper\n\nnews\n\n\n\nWe examine how mobility affects static-dynamic green space exposure association.\n\n\n\n\n\nJun 26, 2024\n\n\nLingwei Zheng, Mei-Po Kwan, Yang Liu, Dong Liu, Jianwei Huang, Zihan Kan\n\n\n\n\n\n\n\n\n\n\n\n\nYour News Title Here\n\n\n\n\n\n\nnews\n\n\n\nOne-line summary of the news item\n\n\n\n\n\nSep 28, 1998\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nPaper Title Here\n\n\nJournal Name\n\n\n\npaper\n\n\n\nOne-line description of the paper\n\n\n\n\n\nSep 28, 1998\n\n\nFirst Author, Second Author, You\n\n\n\n\n\n\n\n\n\n\n\n\nEvent Title Here\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nShort one-line summary of the event\n\n\n\n\n\nJan 1, 1998\n\n\nEvent\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/template-news/index.html",
@@ -98,22 +98,22 @@
     "text": "Share"
   },
   {
-    "objectID": "posts/paper3/index.html#abstract",
-    "href": "posts/paper3/index.html#abstract",
+    "objectID": "posts/paper-202408/index.html#abstract",
+    "href": "posts/paper-202408/index.html#abstract",
     "title": "How mobility pattern shapes the association between static green space and dynamic green space exposure",
     "section": "Abstract",
     "text": "Abstract\nGreenspaces are crucial for enhancing mental and physical health. Recent research has shifted from static methods of assessing exposure to greenspaces, based on fixed locations, to dynamic approaches that account for individual mobility. These dynamic evaluations utilize advanced technologies like GPS tracking and remote sensing to provide more precise exposure estimates. However, little work has been conducted to compare dynamic and static exposure assessments and the effect of individual mobility on these evaluations. This study delves into how greenspaces around homes and workplaces, along with mobility patterns, affect dynamic greenspace exposure in Hong Kong. Data was collected from 787 participants in four communities in Hong Kong using GPS, portable sensors, and surveys. Using multiple statistical tests, our study revealed significant variations in participants’ daily mobility patterns across socio-demographic and temporal factors. Further, using linear mixed-effects models, we identified complex and statistically significant interactions between participants’ static greenspace exposure and their mobility patterns. Our findings suggest that individual mobility patterns significantly modify the relationship between static and dynamic greenspace exposure and play a critical role in explaining socio-demographic and temporal context differences in the relationship between static and dynamic greenspace exposure."
   },
   {
-    "objectID": "posts/paper3/index.html#links",
-    "href": "posts/paper3/index.html#links",
+    "objectID": "posts/paper-202408/index.html#links",
+    "href": "posts/paper-202408/index.html#links",
     "title": "How mobility pattern shapes the association between static green space and dynamic green space exposure",
     "section": "Links",
     "text": "Links\nPublished paper"
   },
   {
-    "objectID": "posts/paper3/index.html#metrics",
-    "href": "posts/paper3/index.html#metrics",
+    "objectID": "posts/paper-202408/index.html#metrics",
+    "href": "posts/paper-202408/index.html#metrics",
     "title": "How mobility pattern shapes the association between static green space and dynamic green space exposure",
     "section": "Metrics",
     "text": "Metrics"
@@ -130,7 +130,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Lingwei Zheng\nDepartment of Geography and Resource Management\nFaculty of Social Science\nThe Chinese University of Hong Kong\nISEIS210, Fok Ying Tung Remote Sensing Science Building\nShatin, N.T., Hong Kong\nE-mail: lingwei.zhenng@link.cuhk.edu.hk"
+    "text": "Lingwei Zheng\nDepartment of Geography and Resource Management\nFaculty of Social Science\nThe Chinese University of Hong Kong\nISEIS210, Fok Ying Tung Remote Sensing Science Building\nShatin, N.T., Hong Kong\nE-mail: lingwei.zheng@link.cuhk.edu.hk"
   },
   {
     "objectID": "people.html",
@@ -154,22 +154,22 @@
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nStudent Name\n\n\nPhD Student\n\n\n2024\n\n\n2025\n\n\n\n\n\n\n\n\n\nPI Name\n\n\nPI\n\n\n \n\n\n \n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/paper4/index.html#abstract",
-    "href": "posts/paper4/index.html#abstract",
+    "objectID": "posts/paper-202504/index.html#abstract",
+    "href": "posts/paper-202504/index.html#abstract",
     "title": "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic",
     "section": "Abstract",
     "text": "Abstract\nThe COVID-19 pandemic has drastically altered urban transportation patterns, leading to significant changes in people’s daily travel behavior. Scholars have attributed this shift to individuals’ perceived pandemic risk, suggesting that higher perceived risk discourages daily travel. However, existing research has produced mixed results regarding the relationship between perceived risk and mobility. This study aims to clarify these conflicting findings by proposing that travel flexibility moderates the relationship between perceived COVID-19 risk and daily mobility. Based on online survey data from Hong Kong and employing a logistic regression model, our findings show that the impact of perceived risk on daily mobility varies according to individuals’ levels of travel flexibility. Specifically, individuals with low travel flexibility experience a significant reduction in mobility due to perceived risk, whereas those with high travel flexibility are relatively unaffected. This research underscores the complex interplay between perceived risk, travel flexibility, and daily mobility during the COVID-19 pandemic, highlighting the critical role that travel flexibility plays in understanding the relationship between perceived risk and mobility."
   },
   {
-    "objectID": "posts/paper4/index.html#links",
-    "href": "posts/paper4/index.html#links",
+    "objectID": "posts/paper-202504/index.html#links",
+    "href": "posts/paper-202504/index.html#links",
     "title": "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic",
     "section": "Links",
     "text": "Links\nPublished paper"
   },
   {
-    "objectID": "posts/paper4/index.html#metrics",
-    "href": "posts/paper4/index.html#metrics",
+    "objectID": "posts/paper-202504/index.html#metrics",
+    "href": "posts/paper-202504/index.html#metrics",
     "title": "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic",
     "section": "Metrics",
     "text": "Metrics"

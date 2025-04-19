@@ -17,12 +17,14 @@ website:
     left:
       # - text: Home
       #   href: index.qmd
-      - text: Posts
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event
+      - text: News
+        href: posts.qmd#category=news
+      # - text: Posts
+      #   menu:
+      #     - text: News
+      #       href: posts.qmd#category=news
+      #     - text: Events
+      #       href: posts.qmd#category=event
       - text: Publication
         href: publications.qmd
           # - text: Selected Papers
