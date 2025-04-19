@@ -9,7 +9,7 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: true
-  feed: true
+  feed: false
   contents: 
       - posts
       - posts/post-links.yml

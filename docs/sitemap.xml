@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://lingwei-zheng.github.io/teaching.html</loc>
+    <lastmod>2025-04-18T16:23:23.791Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/projects.html</loc>
+    <lastmod>2025-04-18T16:23:23.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/posts/paper-title/index.html</loc>
+    <lastmod>2025-04-18T16:23:23.789Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/posts/event-title/index.html</loc>
+    <lastmod>2025-04-18T16:23:23.781Z</lastmod>
+  </url>
+  <url>
     <loc>https://lingwei-zheng.github.io/index.html</loc>
     <lastmod>2025-04-19T09:21:48.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/contact.html</loc>
+    <lastmod>2025-04-18T16:23:23.695Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/people.html</loc>
+    <lastmod>2025-04-18T16:23:23.779Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/posts/news-title/index.html</loc>
+    <lastmod>2025-04-18T16:23:23.781Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/posts.html</loc>
+    <lastmod>2025-04-19T09:32:20.044Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingwei-zheng.github.io/publications.html</loc>
+    <lastmod>2025-04-19T09:08:10.836Z</lastmod>
   </url>
 </urlset>
