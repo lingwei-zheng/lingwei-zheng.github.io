@@ -4,8 +4,20 @@
     "items": []
   },
   {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/pre-202504/index.html",
+      "/posts/paper4/index.html",
+      "/posts/paper3/index.html",
+      "/posts/template-news/index.html",
+      "/posts/template-paper/index.html",
+      "/posts/template-events/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
+      "/posts/pre-202504/index.html",
       "/posts/paper4/index.html",
       "/posts/paper3/index.html",
       "/posts/template-paper/index.html",
@@ -16,15 +28,5 @@
   {
     "listing": "/people.html",
     "items": []
-  },
-  {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/paper4/index.html",
-      "/posts/paper3/index.html",
-      "/posts/template-news/index.html",
-      "/posts/template-paper/index.html",
-      "/posts/template-events/index.html"
-    ]
   }
 ]

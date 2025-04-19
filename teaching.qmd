@@ -1,67 +1,68 @@
 ---
-title: "Teaching"
-subtitle: "I teach."
+title: "Teaching & Services"
+subtitle: "I teach, I serve, I learn"
 title-block-banner: false
 ---
+# Teaching
+
+## Teaching Assistant
+
+### CUHK
+
+-   GRMD5110 - Statistical Applications in Geography (Fall 2024) 
 
 
-## Class 1
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-
-:::
-
-::: {.g-col-12 .g-col-md-10}
-
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
-
-:::
-
-:::
+<div style="margin-bottom: 10em;"></div>
 
 
-## Class 2
+# Professional Services
 
-::: {.grid}
+## Peer Reviewer
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+- Environmental Research
+- Journal of Transport Geography
+- Travel Behaviour & Society
 
-:::
+## Conference/Workshop Chair, Organizer, Moderator & Discussant
 
-::: {.g-col-12 .g-col-md-10}
+- **Session Chair**, Symposium on Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security: Geospatial Approaches to Urban Environmental Dynamics and Human Well-Being. *Annual Meeting of the American Association of Geographers (AAG)*, Detroit, MI. April 24-28, 2025
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+<!-- ## Class 2 -->
 
-Class 2 introduction.
+<!-- ::: {.grid} -->
 
-:::
+<!-- ::: {.g-col-12 .g-col-md-2} -->
 
-:::
+<!-- ![](files/images/placeholder2.JPG) -->
 
+<!-- ::: -->
 
-## Class 3
+<!-- ::: {.g-col-12 .g-col-md-10} -->
 
-::: {.grid}
+<!-- [Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com) -->
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+<!-- Class 2 introduction. -->
 
-:::
+<!-- ::: -->
 
-::: {.g-col-12 .g-col-md-10}
+<!-- ::: -->
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+<!-- ## Class 3 -->
 
-Class 3 introduction. 
+<!-- ::: {.grid} -->
 
-:::
+<!-- ::: {.g-col-12 .g-col-md-2} -->
 
-:::
+<!-- ![](files/images/placeholder3.JPG) -->
 
+<!-- ::: -->
 
+<!-- ::: {.g-col-12 .g-col-md-10} -->
+
+<!-- [Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com) -->
+
+<!-- Class 3 introduction.  -->
+
+<!-- ::: -->
+
+<!-- ::: -->

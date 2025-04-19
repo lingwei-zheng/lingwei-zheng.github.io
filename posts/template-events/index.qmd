@@ -4,7 +4,7 @@ description: "Short one-line summary of the event"
 author: "Event"
 date: "1998-01-01"
 categories: [event, presentation]  # Add more like [talk, keynote] if needed
-image: "/files/images/event-placeholder.jpg"
+image: "/files/images/Placeholder3.jpg"
 #draft: true  # Uncomment if not ready to publish
 ---
 
@@ -23,7 +23,7 @@ Provide a brief description of the event, your role, and any context. For exampl
 
 ## Poster / Visual
 
-[![](/files/images/event-placeholder.jpg){width="90%"}](https://event-website.com)
+[![](/files/images/Placeholder3.jpg){width="90%"}](https://event-website.com)
 
 ## Share
 

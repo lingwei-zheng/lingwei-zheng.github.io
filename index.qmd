@@ -101,24 +101,36 @@ I am interested in human mobility, travel behavior, and the relationship between
 ### Education
 
 <!-- -   [2022.08 ~ Present] --- **Doctor of Philosophy** -->
+
 <!--     -   Geography and Resource Management, at [GRM](https://www.grm.cuhk.edu.hk/en/) -->
+
 <!--     -   The Chinese University of Hong Kong, Hong Kong, China -->
+
 <!-- -   [2020.10 ~ 2021.12] --- **Master of Research** -->
+
 <!--     -   Spatial Data Science, at [CASA](https://www.ucl.ac.uk/bartlett/casa) -->
+
 <!--     -   University College London, London, United Kingdom -->
+
 <!-- -   [2016.09 ~ 2020.08] --- **Bachelor of Social Science** -->
+
 <!--     -   Environment and Development, at [College of APS](https://en.apu.ac.jp/st/) -->
+
 <!--     -   Ritsumeikan Asia Pacific University, Beppu, Japan -->
 
-- Geography, PhD Candidate, The Chinese University of Hong Kong
-- Spatial Data Science, MRes, University College London
-- Environment and Development, BSc, Ritsumeikan Asia Pacific University
+-   Geography, PhD Candidate, *The Chinese University of Hong Kong*
+-   Spatial Data Science, MRes, *University College London*
+-   Environment and Development, BSc, *Ritsumeikan Asia Pacific University*
 
+### Awards & Honors
 
-
+-   Computational Social Science PhD Fellowship *(CSSPFS\@CUHK, 2022–2026)*
+-   Academic Merit Scholarship *(Ritsumeikan Asia Pacific University, 2017–2020)*
+-   Japan Student Services Organization (JASSO) Scholarship *(Ministry of Education, Japan, 2016–2020)*
 :::
 
-<div style="margin-bottom: 2.5em;"></div>
+::: {style="margin-bottom: 2.5em;"}
+:::
 
 ### Recent Posts
 

@@ -1,0 +1,21 @@
+---
+title: "Upcoming presentation at the RGS-IBG Annual International Conference 2025"
+description: "The RGS-IBG Annual International Conference regularly attracts over 2,000 geographers from around the world."
+author: "Lingwei"
+date: "2025-04-19"
+categories: [news, presentation]
+image: "/posts/pre-202504/RBG.jpg"
+#draft: true  # Uncomment if this is a draft
+---
+
+## Summary
+
+Prof. Mei-Po Kwan will present our recent work "How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure" at the [**RGS-IBG Annual International Conference 2025**](https://www.rgs.org/research/annual-international-conference) in London, UK. The conference will take place at the University of Birmingham and online, from Tuesday 26 August to Friday 29 August 2025.
+
+## Details
+
+Expand on the news item if needed. Add images, quotes, links, or anything else you'd like.
+
+## Share
+
+{{< include /files/includes/_socialshare.qmd >}}

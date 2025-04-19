@@ -8,7 +8,7 @@ author:
   - name: You
 date: "1998-09-28"
 categories: [paper]
-image: "featured.jpg"
+image: "placeholder1.JPG"
 citation:
   type: article-journal
   container-title: "Journal Name"

@@ -1,0 +1,19 @@
+---
+title: "Presentation & Invited Talks"
+subtitle: "I share"
+title-block-banner: false
+---
+
+<!-- ## Invited Talks -->
+
+<!-- <div style="margin-bottom: 10em;"></div> -->
+
+## Conference Presentations
+
+-   **Kwan M-P** & Zheng L. How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure. *RGS-IBG Annual International Conference*, London, UK. August 2025.
+
+-   **Zheng L**. Integrating Mobility and Green Space Design: The Psychological Effects of Green Space Morphology. *Annual Meeting of the American Association of Geographers (AAG)*, Detroit, USA. March 2025.
+
+-   **Zheng L**. How Mobility Pattern Shapes the Association Between Static Green Space and Dynamic Green Space Exposure: A Case Study of Hong Kong. *Annual Meeting of the American Association of Geographers (AAG)*, Honolulu, USA. April 2024.
+
+-   **Zheng L**. Exploring the Interplay of Perceived Risk and Travel Flexibility in Daily Mobility Change: Evidence from Hong Kong’s COVID-19 Pandemic. *Annual Meeting of the American Association of Geographers (AAG)*, Online. March 2023.

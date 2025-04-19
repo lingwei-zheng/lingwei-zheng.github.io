@@ -17,14 +17,12 @@ website:
     left:
       # - text: Home
       #   href: index.qmd
-      - text: About
+      - text: Posts
         menu:
           - text: News
             href: posts.qmd#category=news
-          # - text: Events
-          #   href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
+          - text: Events
+            href: posts.qmd#category=event
       - text: Publication
         href: publications.qmd
           # - text: Selected Papers
@@ -33,6 +31,10 @@ website:
           #   href: projects.qmd                                
       - text: Teaching & Services
         href: teaching.qmd
+      - text: Presentation
+        href: presentation.qmd
+      - text: Contact
+        href: contact.qmd  
       # - text: Outreach
       #   menu:        
       #   - text: Presentations
@@ -46,6 +48,9 @@ website:
       - icon: github
         href: https://github.com/lingwei-zheng
         target: _blank
+      - text: "{{< fa brands researchgate >}}"
+        href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
+        target: _blank   
       - text: "{{< fa brands x-twitter >}}"
         href: https://x.com/LingweiZheng
         target: _blank      
@@ -58,6 +63,9 @@ website:
     right:  
       - icon: github
         href: https://github.com/lingwei-zheng
+        target: _blank
+      - text: "{{< fa brands researchgate >}}"
+        href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
         target: _blank
       - text: "{{< fa brands x-twitter >}}" 
         href: https://x.com/LingweiZheng
