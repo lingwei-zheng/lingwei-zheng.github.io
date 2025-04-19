@@ -1,0 +1,27 @@
+---
+title: "Meet us at AAG2025!"
+subtitle: "Come and join our symposium and sessions!"
+author: "Lingwei"
+date: "2025-03-23"
+categories: [event, presentation]
+image: "/posts/202503-pre/aag2025.jpg"
+---
+
+## Overview
+
+Join us at the AAG 2025 Annual Meeting for a symposium on *Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security*. We will explore geospatial methods to address urban environmental dynamics and human well-being, fostering discussions on sustainability and public health.
+
+## Details
+
+- 📍 **Location**: Huntington Place, Detroit, USA
+- 🕒 **Date**: March 27, 2025, 10:10 AM - 11:30 AM
+- 🗣️ **Session Type**: Paper - Hybrid/Streamed
+- 🔗 [Event Link](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23924)
+
+## The Huntington Place
+
+[![](/posts/202503-pre/aag20251.jpg){width="90%"}](https://www.aag.org/events/aag-2025/)
+
+## Share
+
+{{< include /files/includes/_socialshare.qmd >}}

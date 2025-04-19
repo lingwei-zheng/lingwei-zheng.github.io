@@ -6,27 +6,29 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/pre-202504/index.html",
-      "/posts/paper-202504/index.html",
-      "/posts/paper-202408/index.html",
+      "/posts/202504-pre/index.html",
+      "/posts/202503-pre/index.html",
+      "/posts/202502-paper/index.html",
+      "/posts/202408-paper/index.html",
       "/posts/template-news/index.html",
       "/posts/template-paper/index.html",
-      "/posts/template-events/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/pre-202504/index.html",
-      "/posts/paper-202504/index.html",
-      "/posts/paper-202408/index.html",
-      "/posts/template-paper/index.html",
-      "/posts/template-news/index.html",
       "/posts/template-events/index.html"
     ]
   },
   {
     "listing": "/people.html",
     "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/202504-pre/index.html",
+      "/posts/202503-pre/index.html",
+      "/posts/202502-paper/index.html",
+      "/posts/202408-paper/index.html",
+      "/posts/template-paper/index.html",
+      "/posts/template-news/index.html",
+      "/posts/template-events/index.html"
+    ]
   }
 ]
