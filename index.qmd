@@ -1,6 +1,6 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+title: "Lingwei ZHENG"
+description-meta: "Quarto Academic Website Template adapted by Lingwei"
 image: "files/profiles/profile1.JPG"
 page-navigation: false
 toc: false
@@ -13,39 +13,42 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Lab
-      href: https://www.github.com
+      text: ISEIS
+      href: https://www.iseis.cuhk.edu.hk/en/
       target: _blank
     - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
+      text: GRM
+      href: https://www.grm.cuhk.edu.hk/en/profile/zheng-lingwei
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: lingwei.zheng@link.cuhk.edu.hk    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/lingwei-zheng-4701571b2
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
+    - text: "{{< fa brands x-twitter >}} Twitter/X"
+      href: https://x.com/LingweiZheng
+      target: _blank
+    # - icon: youtube
+    #   text: YouTube
+    #   href: https://www.youtube.com     
+    #   target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
+      href: https://orcid.org/0000-0002-9916-5758
       target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
+    # - text: "{{< ai clarivate >}} Web of Science"
+    #   href: https://www.webofscience.com
+    #   target: _blank
+    # - text: "{{< ai scopus >}} Scopus"
+    #   href: https://www.scopus.com
+    #   target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=PzsFiD8AAAAJ&hl=zh-CN
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
+      target: _blank
 
 listing:
   - id: recent-posts
@@ -65,34 +68,61 @@ listing:
       - "title asc"
 ---
 
-:::{#hero-heading}
+::: {#hero-heading}
+<!-- I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io). -->
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+<!-- I'm a template that you can fork to build your own website with easy adaptation and deployment. -->
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+<!-- 1. Star this repository so you can easily come back to the template -->
 
-1. Star this repository so you can easily come back to the template  
-1. Folk this tempate and rename it to `yourgithubusername.github.io`  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `/posts`, `teaching.qmd`, `projects.yml`, and `people.qmd` and `/people` as needed.
-1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
+<!-- 1. Folk this tempate and rename it to `yourgithubusername.github.io` -->
 
-## Experience
+<!-- 1. Update and edit `_quarto.yml` file for website setup -->
 
-- Researcher, Univerisity
+<!-- 1. Update and add contents to `/posts`, `teaching.qmd`, `projects.yml`, and `people.qmd` and `/people` as needed. -->
+
+<!-- 1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub. -->
+
+<!-- 1. Polish and fix any issues -->
+
+<!-- 1. Enjoy your website! -->
+
+I am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management ([GRM](https://www.grm.cuhk.edu.hk/en/)) at The Chinese University of Hong Kong. I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
+
+I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:
+
+1.  How urban characteristics influence mobility and public well-being.
+
+2.  The application of spatial data science and machine learning in urban studies.
+
+3.  Advancing methods for spatial analysis and causal inference in human-environment interactions.
+
+<!-- ## Experience -->
+
+<!-- - Researcher, Univerisity -->
 
 ## Education
 
-- PhD, Univerisity
-
+-   [2022.08 ~ Present] --- **Doctor of Philosophy**
+    -   Geography and Resource Management, at [GRM](https://www.grm.cuhk.edu.hk/en/)
+    -   The Chinese University of Hong Kong, Hong Kong, China
+-   [2020.10 ~ 2021.12] --- **Master of Research**
+    -   Spatial Data Science, at [CASA](https://www.ucl.ac.uk/bartlett/casa)
+    -   University College London, London, United Kingdom
+-   [2016.09 ~ 2020.08] --- **Bachelor of Social Science**
+    -   Environment and Development, at [College of APS](https://en.apu.ac.jp/st/)
+    -   Ritsumeikan Asia Pacific University, Beppu, Japan
 :::
 
 ## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
-:::{#recent-posts}
+Check out the latest  [Papers](posts.qmd#category=paper) ,  [News](posts.qmd#category=news) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
+
+::: {#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<p align="right">
+
+[All Posts »](/posts.qmd)
+
+</p>

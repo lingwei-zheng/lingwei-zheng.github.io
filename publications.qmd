@@ -7,27 +7,50 @@ title-block-banner: false
 css: custom.css
 ---
 
-
 <!--Include academic icons or buttons-->
+
 {{< include /files/includes/_academic.qmd >}}
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
 
-Total citations as of January 2025:
+Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+<!-- Total citations as of January 2025: -->
 
-## Selected Work
+<!-- -   [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)\ -->
+<!-- -   [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) -->
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+## Peer-reviewed articles
+
+<!-- Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} -->
+
+<!-- ::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true"} -->
+<!-- ::: -->
 
 
-<center><hr style="width:50%"></center>
+- Zheng, L., Kwan, M.-P., Huang, J., & Liu, D. (2025). Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic. *Travel Behaviour and Society*, 40, 101015. \[[doi](https://doi.org/10.1016/j.tbs.2025.101015)\]
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tbs.2025.101015" data-style="large_rectangle"></span> 
+<div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.tbs.2025.101015" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div style="margin-bottom: 1em;"></div>
+
+- Zheng, L., Kwan, M.-P., Liu, Y., Liu, D., Huang, J., & Kan, Z. (2024). How mobility pattern shapes the association between static green space and dynamic green space exposure. *Environmental Research*, 258, 119499. \[[doi](https://doi.org/10.1016/j.envres.2024.119499)\]
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.envres.2024.119499" data-style="large_rectangle"></span> 
+<div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.envres.2024.119499" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<div style="margin-bottom: 1em;"></div>
 
 
+- Zheng, L., & Austwick, M. Z. (2023). Classifying station areas in greater manchester using the node-place-design model: A comparative analysis with system centrality and green space coverage. *Journal of Transport Geography*, 112, 103713. \[[doi](https://doi.org/10.1016/j.jtrangeo.2023.103713)\]
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jtrangeo.2023.103713" data-style="large_rectangle"></span> 
+<div data-badge-popover="right" data-badge-type="1" data-doi="10.1016/j.jtrangeo.2023.103713" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<div style="margin-bottom: 1em;"></div>
+
+- Zheng, L., & Li, Y. (2020). The development, characteristics and impact of bike sharing systems: A literature review. *International Review for Spatial Planning and Sustainable Development*, 8(2), 37–52. \[[doi](https://doi.org/10.14246/irspsd.8.2_37)\]
+<span class="__dimensions_badge_embed__" data-doi="10.14246/irspsd.8.2_37" data-style="large_rectangle"></span> 
+<div data-badge-popover="right" data-badge-type="1" data-doi="10.14246/irspsd.8.2_37" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<div style="margin-bottom: 2em;"></div>
 
 <!--Include social share buttons-->
 

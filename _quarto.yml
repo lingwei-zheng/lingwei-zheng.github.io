@@ -15,8 +15,8 @@ website:
     background: light
 
     left:
-      - text: Home
-        href: index.qmd
+      # - text: Home
+      #   href: index.qmd
       - text: About
         menu:
           - text: News
@@ -25,14 +25,12 @@ website:
             href: posts.qmd#category=event      
           - text: Contact
             href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publication
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
+      - text: Publication
+        href: publications.qmd
+          # - text: Selected Papers
+          #   href: posts.qmd#category=paper
+          # - text: Grants
+          #   href: projects.qmd                                
       - text: Teaching
         href: teaching.qmd
       - text: Outreach
@@ -46,14 +44,11 @@ website:
       - text: CV
         href: files/nsf-biosketch.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/lingwei-zheng
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
+      - text: "{{< fa brands x-twitter >}}"
+        href: https://x.com/LingweiZheng
         target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
   
   page-navigation: true
   
@@ -64,12 +59,9 @@ website:
       - icon: github
         href: https://github.com/lingwei-zheng
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
+      - text: "{{< fa brands x-twitter >}}" 
+        href: https://x.com/LingweiZheng
         target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
   
   search:
     location: navbar
