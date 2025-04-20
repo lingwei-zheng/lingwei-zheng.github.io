@@ -3,29 +3,29 @@ title: "Teaching & Services"
 subtitle: "I teach, I serve, I learn"
 title-block-banner: false
 ---
+
 ## Teaching
 
 ### Teaching Assistant
 
 **The Chinese University of Hong Kong**
 
-GRMD5110 - Statistical Applications in Geography (Fall 2024) 
+-   GRMD5110 - Statistical Applications in Geography (Fall 2024)
 
-
-<div style="margin-bottom: 10em;"></div>
-
+::: {style="margin-bottom: 10em;"}
+:::
 
 ## Professional Services
 
 ### Peer Reviewer
 
-- Environmental Research
-- Journal of Transport Geography
-- Travel Behaviour & Society
+-   Environmental Research
+-   Journal of Transport Geography
+-   Travel Behaviour & Society
 
 ### Conference/Workshop Chair, Organizer, Moderator & Discussant
 
-- **Session Chair**, Symposium on Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security: Geospatial Approaches to Urban Environmental Dynamics and Human Well-Being. *Annual Meeting of the American Association of Geographers (AAG)*, Detroit, MI. April 24-28, 2025
+-   **Session Chair**, Symposium on Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security: Geospatial Approaches to Urban Environmental Dynamics and Human Well-Being. *Annual Meeting of the American Association of Geographers (AAG)*, Detroit, MI. April 24-28, 2025
 
 <!-- ## Class 2 -->
 

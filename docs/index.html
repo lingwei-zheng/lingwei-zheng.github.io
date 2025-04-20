@@ -32,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -73,36 +71,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-14EQZPM1N7"></script>
 
 <script type="text/javascript">
@@ -152,35 +120,6 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Lingwei ZHENG – Lingwei Zheng">
@@ -210,21 +149,40 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./posts.html#category=news"> 
-<span class="menu-text">News</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-posts" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Posts</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-posts">    
+        <li>
+    <a class="dropdown-item" href="./posts.html#category=event">
+ <span class="dropdown-text">Events</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./posts.html#category=talk">
+ <span class="dropdown-text">Presentation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./posts.html#category=paper">
+ <span class="dropdown-text">Recent papers</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./posts.html">
+ <span class="dropdown-text">All posts</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publication</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching &amp; Services</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./presentation.html"> 
 <span class="menu-text">Presentation</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching &amp; Services</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./contact.html"> 
@@ -324,7 +282,7 @@ window.Quarto = {
 <!-- 1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub. -->
 <!-- 1. Polish and fix any issues -->
 <!-- 1. Enjoy your website! -->
-<p>I am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management (<a href="https://www.grm.cuhk.edu.hk/en/">GRM</a>) at The Chinese University of Hong Kong. I also serve as a research fellow at the Computational Social Science Laboratory (<a href="https://cssl.socsc.cuhk.edu.hk/">CSSL@CUHK</a>) and Institute of Space and Earth Information Science (<a href="http://www.iseis.cuhk.edu.hk/en/">ISEIS</a>).</p>
+<p>I am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management (<a href="https://www.grm.cuhk.edu.hk/en/">GRM</a>) at The Chinese University of Hong Kong, supervised by <a href="http://meipokwan.org/">Prof.&nbsp;Mei-Po Kwan</a> and <a href="https://www.zihankan.com/">Prof.&nbsp;Zihan Kan</a>. I also serve as a research fellow at the Computational Social Science Laboratory (<a href="https://cssl.socsc.cuhk.edu.hk/">CSSL@CUHK</a>) and Institute of Space and Earth Information Science (<a href="http://www.iseis.cuhk.edu.hk/en/">ISEIS</a>).</p>
 <p>I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:</p>
 <ol type="1">
 <li>How urban characteristics influence mobility and public well-being.</li>
@@ -333,6 +291,8 @@ window.Quarto = {
 </ol>
 <!-- ## Experience -->
 <!-- - Researcher, Univerisity -->
+<div style="margin-bottom: 3em;">
+</div>
 <section id="education" class="level3">
 <h3 data-anchor-id="education">Education</h3>
 <!-- -   [2022.08 ~ Present] --- **Doctor of Philosophy** -->
@@ -361,81 +321,23 @@ window.Quarto = {
 </div></div>
 </div>
 
-<div style="margin-bottom: 2.5em;">
+<div style="margin-bottom: 0.5em;">
 
 </div>
-<section id="recent-posts" class="level3">
-<h3 data-anchor-id="recent-posts">Recent Posts</h3>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ3ByZXNlbnRhdGlvbg==" data-listing-date-sort="1744992000000" data-listing-file-modified-sort="1745077611895" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="72">
-<a href="./posts/202504-pre/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/202504-pre/RBG.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Upcoming presentation at the RGS-IBG Annual International Conference 2025
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Apr 19, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1742659200000" data-listing-file-modified-sort="1745077643845" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
-<a href="./posts/202503-pre/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/202503-pre/aag2025.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Meet us at AAG2025!
-</h5>
-<div class="card-subtitle listing-subtitle">
-Come and join our symposium and sessions!
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 23, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="cGFwZXIlMkNuZXdz" data-listing-date-sort="1740499200000" data-listing-file-modified-sort="1745073685443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
-<a href="./posts/202502-paper/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/202502-paper/featured.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic
-</h5>
-<div class="card-subtitle listing-subtitle">
-<em>Travel Behaviour &amp; Society</em>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Feb 26, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
+<section id="recent-news" class="level2">
+<h2 data-anchor-id="recent-news">Recent News</h2>
+<!-- ::: {#recent-posts} -->
+<!-- ::: -->
+<ul>
+<li><p>[08/2025] Our paper on ‘How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure’ is accepted for an oral presentation at <a href="https://www.rgs.org/research/annual-international-conference"><em>RGS-IBG Annual International Conference 2025</em></a> 🎉 [<a href="./posts/202504-pre/index.html">post</a>].</p></li>
+<li><p>[02/2025] Our paper is accepted by <em>Travel Behaviour and Society</em>: “Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic.” [<a href="./posts/202502-paper/index.html">post</a>].</p></li>
+</ul>
+<div style="margin-bottom: 3.5em;">
+
 </div>
 <p align="right">
-</p><p><a href="./posts.html">All Posts »</a></p>
-<p></p>
-
+Check out the latest &nbsp;<a href="./index.html">Updates</a>&nbsp;, &nbsp;<a href="./posts.html#category=talk">Talks</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a> <!-- [All Posts »](/posts.qmd) -->
+</p>
 
 
 

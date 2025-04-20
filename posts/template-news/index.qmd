@@ -3,7 +3,7 @@ title: "Your News Title Here"
 description: "One-line summary of the news item"
 author: "News"
 date: "1998-09-028"
-categories: [news]
+categories: [event]
 image: "/files/images/Placeholder2.jpg"
 #draft: true  # Uncomment if this is a draft
 ---

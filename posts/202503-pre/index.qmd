@@ -3,7 +3,7 @@ title: "Meet us at AAG2025!"
 subtitle: "Come and join our symposium and sessions!"
 author: "Lingwei"
 date: "2025-03-23"
-categories: [event, presentation]
+categories: [event, talk]
 image: "aag2025.jpg"
 ---
 

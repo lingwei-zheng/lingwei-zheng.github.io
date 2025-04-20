@@ -15,28 +15,30 @@ website:
     background: light
 
     left:
-      # - text: Posts
-      #   menu:
-      #     - text: News
-      #       href: posts.qmd#category=news
-      #     - text: Events
-      #       href: posts.qmd#category=event
+      - text: Posts
+        menu:
+          - text: Events
+            href: posts.qmd#category=event
+          - text: Presentation
+            href: posts.qmd#category=talk
+          - text: Recent papers
+            href: posts.qmd#category=paper
+          - text: All posts
+            href: posts.qmd
       # - text: Home
       #   href: index.qmd
-      - text: News
-        href: posts.qmd#category=news
       - text: Publication
         href: publications.qmd
           # - text: Selected Papers
           #   href: posts.qmd#category=paper
           # - text: Grants
           #   href: projects.qmd                                
-      - text: Teaching & Services
-        href: teaching.qmd
       - text: Presentation
         href: presentation.qmd
+      - text: Teaching & Services
+        href: teaching.qmd
       - text: Contact
-        href: contact.qmd  
+        href: contact.qmd 
       # - text: Outreach
       #   menu:        
       #   - text: Presentations

@@ -50,21 +50,21 @@ about:
       href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
       target: _blank
 
-listing:
-  - id: recent-posts
-    contents: 
-      - posts
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+# listing:
+#   - id: recent-posts
+#     contents: 
+#       - posts
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort: 
+#       - "date desc"
+#       - "title asc"
 ---
 
 ::: {#hero-heading}
@@ -86,7 +86,7 @@ listing:
 
 <!-- 1. Enjoy your website! -->
 
-I am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management ([GRM](https://www.grm.cuhk.edu.hk/en/)) at The Chinese University of Hong Kong. I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
+I am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management ([GRM](https://www.grm.cuhk.edu.hk/en/)) at The Chinese University of Hong Kong, supervised by [Prof. Mei-Po Kwan](http://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
 
 I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:
 
@@ -97,6 +97,8 @@ I am interested in human mobility, travel behavior, and the relationship between
 <!-- ## Experience -->
 
 <!-- - Researcher, Univerisity -->
+<div style="margin-bottom: 3em;"></div>
+
 
 ### Education
 
@@ -129,18 +131,24 @@ I am interested in human mobility, travel behavior, and the relationship between
 -   Japan Student Services Organization (JASSO) Scholarship *(Ministry of Education, Japan, 2016–2020)*
 :::
 
-::: {style="margin-bottom: 2.5em;"}
+::: {style="margin-bottom: 0.5em;"}
 :::
 
-### Recent Posts
+## Recent News
 
-Check out the latest  [Papers](posts.qmd#category=paper) ,  [News](posts.qmd#category=news) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
+<!-- ::: {#recent-posts} -->
 
-::: {#recent-posts}
-:::
+<!-- ::: -->
+
+-   \[08/2025\] Our paper on ‘How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure’ is accepted for an oral presentation at [*RGS-IBG Annual International Conference 2025*](https://www.rgs.org/research/annual-international-conference) 🎉 [[post](posts/202504-pre/index.qmd)].
+
+-   \[02/2025\] Our paper is accepted by *Travel Behaviour and Society*: "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic." \[[post](posts/202502-paper/index.qmd)\].
+
+
+
+<div style="margin-bottom: 3.5em;"></div>
 
 <p align="right">
-
-[All Posts »](/posts.qmd)
-
+Check out the latest  [Updates](index.qmd) ,  [Talks](posts.qmd#category=talk) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
+<!-- [All Posts »](/posts.qmd) -->
 </p>

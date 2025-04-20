@@ -3,7 +3,7 @@ title: "Event Title Here"
 description: "Short one-line summary of the event"
 author: "Event"
 date: "1998-01-01"
-categories: [event, presentation]  # Add more like [talk, keynote] if needed
+categories: [event]  # Add more like [talk, keynote] if needed
 image: "/files/images/Placeholder3.jpg"
 #draft: true  # Uncomment if not ready to publish
 ---
