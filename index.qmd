@@ -18,11 +18,11 @@ about:
       target: _blank
     - icon: globe
       text: GRM
-      href: https://www.grm.cuhk.edu.hk/en/profile/zheng-lingwei
+      href: https://www.grm.cuhk.edu.hk/en/
       target: _blank
     - icon: envelope
       text: E-mail
-      href: lingwei.zheng@link.cuhk.edu.hk    
+      href: mailto:lingwei.zheng@link.cuhk.edu.hk    
     - icon: linkedin
       text: LinkedIn
       href: www.linkedin.com/in/lingwei-zheng-4701571b2
