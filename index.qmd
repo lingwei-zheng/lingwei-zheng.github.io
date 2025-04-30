@@ -1,6 +1,6 @@
 ---
 title: "Lingwei Zheng"
-description-meta: "Quarto Academic Website Template adapted by Lingwei"
+description-meta: "Adapted from Quarto Academic Website Template"
 image: "files/profiles/profile1.JPG"
 page-navigation: false
 toc: false
