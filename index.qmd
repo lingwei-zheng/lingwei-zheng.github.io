@@ -140,15 +140,15 @@ I am interested in human mobility, travel behavior, and the relationship between
 
 <!-- ::: -->
 
--   \[08/2025\] Our paper on ‘How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure’ is accepted for an oral presentation at [*RGS-IBG Annual International Conference 2025*](https://www.rgs.org/research/annual-international-conference) 🎉 [[post](posts/202504-pre/index.qmd)].
+-   \[08/2025\] Our paper on ‘How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure’ is accepted for an oral presentation at [*RGS-IBG Annual International Conference 2025*](https://www.rgs.org/research/annual-international-conference). 🎉🎉🎉
 
--   \[02/2025\] Our paper is accepted by *Travel Behaviour and Society*: "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic." \[[post](posts/202502-paper/index.qmd)\].
+-   \[03/2025\] Join us at the [*AAG 2025 Annual Meeting*](https://www.aag.org/events/aag-2025/) for a symposium on "*Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security*." We will explore geospatial methods to address urban environmental dynamics and human well-being, fostering discussions on sustainability and public health. \[[link](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23924)\]
 
+-   \[02/2025\] Our paper is accepted by *Travel Behaviour and Society*: "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic." \[[link](https://doi.org/10.1016/j.tbs.2025.101015)\]
 
+<!-- <div style="margin-bottom: 3.5em;"></div> -->
 
-<div style="margin-bottom: 3.5em;"></div>
-
-<p align="right">
-Check out the latest  [Updates](index.qmd) ,  [Talks](posts.qmd#category=talk) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd)
+<!-- <p align="right"> -->
+<!-- Check out the latest  [Updates](index.qmd) ,  [Talks](posts.qmd#category=talk) ,  [Events](posts.qmd#category=event) , and  [More »](/posts.qmd) -->
 <!-- [All Posts »](/posts.qmd) -->
-</p>
+<!-- </p> -->

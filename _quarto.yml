@@ -15,16 +15,16 @@ website:
     background: light
 
     left:
-      - text: Posts
-        menu:
-          - text: Events
-            href: posts.qmd#category=event
-          - text: Presentation
-            href: posts.qmd#category=talk
-          - text: Recent papers
-            href: posts.qmd#category=paper
-          - text: All posts
-            href: posts.qmd
+      # - text: Posts
+      #   menu:
+      #     - text: Events
+      #       href: posts.qmd#category=event
+      #     - text: Presentation
+      #       href: posts.qmd#category=talk
+      #     - text: Recent papers
+      #       href: posts.qmd#category=paper
+      #     - text: All posts
+      #       href: posts.qmd
       # - text: Home
       #   href: index.qmd
       - text: Publication
@@ -52,12 +52,12 @@ website:
       - icon: github
         href: https://github.com/lingwei-zheng
         target: _blank
-      - text: "{{< fa brands researchgate >}}"
-        href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
-        target: _blank   
+      # - text: "{{< fa brands researchgate >}}"
+      #   href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
+      #   target: _blank   
       - text: "{{< fa brands x-twitter >}}"
         href: https://x.com/LingweiZheng
-        target: _blank      
+        target: _blank
   
   page-navigation: true
   
@@ -68,9 +68,9 @@ website:
       - icon: github
         href: https://github.com/lingwei-zheng
         target: _blank
-      - text: "{{< fa brands researchgate >}}"
-        href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
-        target: _blank
+      # - text: "{{< fa brands researchgate >}}"
+      #   href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
+      #   target: _blank
       - text: "{{< fa brands x-twitter >}}" 
         href: https://x.com/LingweiZheng
         target: _blank
