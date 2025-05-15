@@ -35,7 +35,7 @@ website:
           #   href: projects.qmd                                
       - text: Presentation
         href: presentation.qmd
-      - text: Teaching & Services
+      - text: Teaching & Service
         href: teaching.qmd
       - text: Contact
         href: contact.qmd 
@@ -71,9 +71,9 @@ website:
       # - text: "{{< fa brands researchgate >}}"
       #   href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
       #   target: _blank
-      - text: "{{< fa brands x-twitter >}}" 
-        href: https://x.com/LingweiZheng
-        target: _blank
+      # - text: "{{< fa brands x-twitter >}}" 
+      #   href: https://x.com/LingweiZheng
+      #   target: _blank
   
   search:
     location: navbar

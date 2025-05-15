@@ -86,7 +86,7 @@ about:
 
 <!-- 1. Enjoy your website! -->
 
-I am a researcher in geoinformatics and spatial data science pursuing a PhD in the Department of Geography and Resource Management ([GRM](https://www.grm.cuhk.edu.hk/en/)) at The Chinese University of Hong Kong, supervised by [Prof. Mei-Po Kwan](http://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
+I am a PhD candidate in Geoinformatics at *The Chinese University of Hong Kong* ([CUHK](https://www.cuhk.edu.hk/)), supervised by [Prof. Mei-Po Kwan](http://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
 
 I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:
 
@@ -120,9 +120,9 @@ I am interested in human mobility, travel behavior, and the relationship between
 
 <!--     -   Ritsumeikan Asia Pacific University, Beppu, Japan -->
 
--   Geography, PhD Candidate, *The Chinese University of Hong Kong*
--   Spatial Data Science, MRes, *University College London*
--   Environment and Development, BSSc, *Ritsumeikan Asia Pacific University*
+-   Geography, PhD Candidate, *The Chinese University of Hong Kong* \[[GRM](https://www.grm.cuhk.edu.hk/en/)]\
+-   Spatial Data Science, MRes, *University College London* \[[CASA](https://www.ucl.ac.uk/bartlett/casa)]\
+-   Environment and Development, BSSc, *Ritsumeikan Asia Pacific University* \[[APS](https://en.apu.ac.jp/st/)]\
 
 ### Awards & Honors
 
