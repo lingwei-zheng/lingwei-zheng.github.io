@@ -1,6 +1,6 @@
 ---
 title: "Presentation & Invited Talks"
-subtitle: "I share"
+subtitle: ""
 title-block-banner: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Teaching & Services"
-subtitle: "I teach, I serve, I learn"
+subtitle: ""
 title-block-banner: false
 ---
 

@@ -86,7 +86,7 @@ about:
 
 <!-- 1. Enjoy your website! -->
 
-I am a PhD candidate in Geoinformatics at *The Chinese University of Hong Kong* ([CUHK](https://www.cuhk.edu.hk/)), supervised by [Prof. Mei-Po Kwan](http://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
+I am a PhD candidate in Geography at *The Chinese University of Hong Kong* ([CUHK](https://www.cuhk.edu.hk/)), supervised by [Prof. Mei-Po Kwan](http://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
 
 I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:
 
@@ -142,7 +142,7 @@ I am interested in human mobility, travel behavior, and the relationship between
 
 -   \[08/2025\] Our paper on ‘How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure’ is accepted for an oral presentation at [*RGS-IBG Annual International Conference 2025*](https://www.rgs.org/research/annual-international-conference). 🎉🎉🎉
 
--   \[03/2025\] Join us at the [*AAG 2025 Annual Meeting*](https://www.aag.org/events/aag-2025/) for a symposium on "*Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security*." We will explore geospatial methods to address urban environmental dynamics and human well-being, fostering discussions on sustainability and public health. \[[link](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23924)\]
+-   \[03/2025\] Join us at the [*AAG 2025 Annual Meeting*](https://www.aag.org/events/aag-2025/) for the symposium on "*Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security*." We will explore how geospatial methods can address urban environmental dynamics and human well-being, and fostering discussions on sustainability and public health. \[[link](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23924)\]
 
 -   \[02/2025\] Our paper is accepted by *Travel Behaviour and Society*: "Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic." \[[link](https://doi.org/10.1016/j.tbs.2025.101015)\]
 
