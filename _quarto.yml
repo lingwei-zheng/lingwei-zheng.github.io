@@ -8,7 +8,7 @@ author-meta: "Lingwei Zheng"
 
 website:
   title: "Sensing Urban Dynamics"
-  image: "files/profiles/profile2.jpg"
+  favicon: "files/profiles/profile2.jpg"
   description: "Lingwei's Homepage"
  
   navbar:
@@ -27,15 +27,15 @@ website:
       #       href: posts.qmd
       # - text: Home
       #   href: index.qmd
-      - text: Publication
+      - text: Publications
         href: publications.qmd
           # - text: Selected Papers
           #   href: posts.qmd#category=paper
           # - text: Grants
           #   href: projects.qmd                                
-      - text: Presentation
+      - text: Presentations
         href: presentation.qmd
-      - text: Teaching & Service
+      - text: Teaching & Services
         href: teaching.qmd
       - text: Contact
         href: contact.qmd 

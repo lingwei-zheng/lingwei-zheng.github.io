@@ -1,5 +1,5 @@
 ---
-title: "Presentation & Invited Talks"
+title: "Presentations"
 subtitle: ""
 title-block-banner: false
 ---
@@ -8,7 +8,7 @@ title-block-banner: false
 
 <!-- <div style="margin-bottom: 10em;"></div> -->
 
-## Conference Presentations
+## Conferences
 
 -   **Kwan M-P** & Zheng L. How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure. *RGS-IBG Annual International Conference*, London, UK. August 2025.
 
