@@ -141,11 +141,13 @@ I am interested in human mobility, travel behavior, and the relationship between
 
 <!-- ::: -->
 
+-   \[10/2025\] Our paper is accepted by *Urban Forestry & Urban Greening*: "Decomposing discrete effective buffer sizes for residential green space exposure measures: Insights from urban green space fragments." \[[Link](https://doi.org/10.1016/j.ufug.2025.129122)\] 🎉🎉🎉
+
 -   \[08/2025\] Our paper is accepted by *Ecological Indicators*: "Greenspace morphology and mental well-being: a mobility-based study on urban stress and emotion." \[[Link](https://doi.org/10.1016/j.ecolind.2025.114090)\] 🎉🎉🎉
 
 -   \[05/2025\] Our paper on ‘How Mobility Pattern Shapes the Association Between Static Greenspace and Dynamic Greenspace Exposure’ is accepted for an oral presentation at [*RGS-IBG Annual International Conference 2025*](https://www.rgs.org/research/annual-international-conference). 
 
--   \[03/2025\] Join us at the [*AAG 2025 Annual Meeting*](https://www.aag.org/events/aag-2025/) for the symposium on "*Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security*." We will explore how geospatial methods can address urban environmental dynamics and human well-being, and fostering discussions on sustainability and public health. \[[Link](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23924)\]
+<!-- -   \[03/2025\] Join us at the [*AAG 2025 Annual Meeting*](https://www.aag.org/events/aag-2025/) for the symposium on "*Geospatial Approaches to Pressing Grand Challenges: Global Pandemic, Climate Change, and Food Security*." We will explore how geospatial methods can address urban environmental dynamics and human well-being, and fostering discussions on sustainability and public health. \[[Link](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/23924)\] -->
 
 
 <!-- <div style="margin-bottom: 3.5em;"></div> -->
