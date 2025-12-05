@@ -122,7 +122,7 @@ I am interested in human mobility, travel behavior, and the relationship between
 
 -   Geography, PhD Candidate, *The Chinese University of Hong Kong* \([GRM](https://www.grm.cuhk.edu.hk/en/))\
 -   Spatial Data Science, MRes, *University College London* \([CASA](https://www.ucl.ac.uk/bartlett/casa))\
--   Environment and Development, BSSc, *Ritsumeikan Asia Pacific University* \([APS](https://en.apu.ac.jp/st/))\
+-   Environment and Development, BSSc, *Ritsumeikan Asia Pacific University* \([ST](https://en.apu.ac.jp/st/))\
 
 ### Awards & Honors
 

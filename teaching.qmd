@@ -11,8 +11,8 @@ title-block-banner: false
 **The Chinese University of Hong Kong**
 
 -   GRMD5110 - Statistical Applications in Geography (Fall 2024; Fall 2025)
--   GRMD2105 - Introduction to GIS (Spring 2025)
--   GRMD4502 - Urban Big Data Analysis and Application (Spring 2025)
+-   GRMD2105 - Introduction to GIS (Spring 2026)
+-   GRMD4502 - Urban Big Data Analysis and Application (Spring 2026)
 
 
 ::: {style="margin-bottom: 10em;"}
