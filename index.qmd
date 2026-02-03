@@ -141,7 +141,7 @@ I am interested in human mobility, travel behavior, and the relationship between
 
 <!-- ::: -->
 
--   \[10/2025\] Our paper is accepted by *Landscape and Urban Planning*: "Beyond sentiment: using large language models to decode multidimensional urban park perceptions for enhanced equality." \[[Link](https://doi.org/10.1016/j.landurbplan.2025.105571)\] 🎉🎉🎉
+-   \[12/2025\] Our paper is accepted by *Landscape and Urban Planning*: "Beyond sentiment: using large language models to decode multidimensional urban park perceptions for enhanced equality." \[[Link](https://doi.org/10.1016/j.landurbplan.2025.105571)\] 🎉🎉🎉
 
 -   \[08/2025\] Our paper is accepted by *Ecological Indicators*: "Greenspace morphology and mental well-being: a mobility-based study on urban stress and emotion." \[[Link](https://doi.org/10.1016/j.ecolind.2025.114090)\] 🎉🎉🎉
 
