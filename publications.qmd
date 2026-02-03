@@ -26,6 +26,12 @@ Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; ![](http
 <!-- ::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true"} -->
 <!-- ::: -->
 
+- Song, Q., Tian, S., **Zheng, L.**, Zheng, Y., Qiu, L., Huang, B., & Ameijde, J. van. (2026). Beyond sentiment: Using large language models to decode multidimensional urban park perceptions for enhanced equality. *Landscape and Urban Planning*, 268, 105571. \[[doi](https://doi.org/10.1016/j.landurbplan.2025.105571)\]
+
+
+<div style="margin-bottom: 1em;"></div>
+
+
 - Liu, Y., Kwan, M.-P., **Zheng, L.**, & Wang, J. (2025). Decomposing discrete effective buffer sizes for residential green space exposure measures: Insights from urban green space fragments. *Urban Forestry & Urban Greening*, 113, 129122. \[[doi](https://doi.org/10.1016/j.ufug.2025.129122)\]
 
 <div style="margin-bottom: 1em;"></div>
