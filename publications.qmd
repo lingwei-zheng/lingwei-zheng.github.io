@@ -26,6 +26,13 @@ Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; ![](http
 <!-- ::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true"} -->
 <!-- ::: -->
 
+- **Zheng, L.**, Song, Q., Kwan, M.-P., Van Ameijde, J., Tian, S., & Zheng, Y. (2026). A large language model framework for urban perception mapping: Linking greenspace patterns and park attractiveness across the pandemic. *Computers, Environment and Urban Systems*, 127, 102433. 
+ \[[doi](https://doi.org/10.1016/j.compenvurbsys.2026.102433)\]
+
+
+<div style="margin-bottom: 1em;"></div>
+
+
 - Song, Q., Tian, S., **Zheng, L.**, Zheng, Y., Qiu, L., Huang, B., & Ameijde, J. van. (2026). Beyond sentiment: Using large language models to decode multidimensional urban park perceptions for enhanced equality. *Landscape and Urban Planning*, 268, 105571. \[[doi](https://doi.org/10.1016/j.landurbplan.2025.105571)\]
 
 
