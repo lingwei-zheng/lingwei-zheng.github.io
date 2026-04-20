@@ -25,6 +25,7 @@ title-block-banner: false
 -   Environmental Research
 -   Journal of Transport Geography
 -   Travel Behaviour & Society
+-   Humanities and Social Sciences Communications
 
 ### Conference/Workshop Chair, Organizer, Moderator & Discussant
 
