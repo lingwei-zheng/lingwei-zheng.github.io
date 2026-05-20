@@ -1,0 +1,44 @@
+version: 1
+
+project:
+  name: "lingwei-zheng.github.io"
+  root: "."
+  type: "quarto-website"
+  repository: "https://github.com/lingwei-zheng/lingwei-zheng.github.io"
+  upstream_template: "https://github.com/drganghe/quarto-academic-website-template"
+
+machines:
+  coding: "Windows"
+  writing: "MacBook Air"
+
+paths:
+  state:
+    todo: "TODO.md"
+    handoff: "HANDOFF.md"
+
+  notes:
+    dir: "notes"
+    experiment_log: "notes/experiment-log.md"
+    writing_notes: "notes/writing-notes.md"
+
+  website:
+    config: "_quarto.yml"
+    output_dir: "docs"
+    homepage: "index.qmd"
+    publications: "publications.qmd"
+    presentations: "presentation.qmd"
+    teaching: "teaching.qmd"
+    contact: "contact.qmd"
+    assets: "files"
+    posts: "posts"
+    people: "people"
+    bibliography: "references.bib"
+
+  sync:
+    dir: "sync"
+    state: "sync/sync_state.json"
+    sessions_log: "sync/sessions.log"
+
+compatibility:
+  fallback_policy: "Use documented skill defaults when a key is missing, and record important fallbacks in HANDOFF.md."
+  preserve_other_skill_state: true

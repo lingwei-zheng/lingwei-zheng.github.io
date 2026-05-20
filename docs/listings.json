@@ -4,6 +4,10 @@
     "items": []
   },
   {
+    "listing": "/people.html",
+    "items": []
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/202504-pre/index.html",
@@ -14,9 +18,5 @@
       "/posts/template-paper/index.html",
       "/posts/template-events/index.html"
     ]
-  },
-  {
-    "listing": "/people.html",
-    "items": []
   }
 ]

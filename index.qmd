@@ -4,7 +4,6 @@ description-meta: "Adapted from Quarto Academic Website Template"
 image: "files/profiles/profile0.JPG"
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
 
 about:
@@ -25,68 +24,24 @@ about:
       href: mailto:lingwei.zheng@link.cuhk.edu.hk    
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/lingwei-zheng-4701571b2
+      href: https://www.linkedin.com/in/lingwei-zheng-4701571b2
       target: _blank
     - text: "{{< fa brands x-twitter >}} Twitter/X"
       href: https://x.com/LingweiZheng
       target: _blank
-    # - icon: youtube
-    #   text: YouTube
-    #   href: https://www.youtube.com     
-    #   target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
+    - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9916-5758
       target: _blank
-    # - text: "{{< ai clarivate >}} Web of Science"
-    #   href: https://www.webofscience.com
-    #   target: _blank
-    # - text: "{{< ai scopus >}} Scopus"
-    #   href: https://www.scopus.com
-    #   target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?user=PzsFiD8AAAAJ&hl=zh-CN
       target: _blank
     - text: "{{< ai researchgate >}} Research Gate"
       href: https://www.researchgate.net/profile/Lingwei-Zheng-3?ev=hdr_xprf
       target: _blank
-
-# listing:
-#   - id: recent-posts
-#     contents: 
-#       - posts
-#     exclude:
-#       title: ""
-#     type: grid
-#     max-items: 3
-# #    image-height: 150px
-#     page-size: 3 #set same as max-times to remove the page number setting
-#     fields: [image, date, title, subtitle]
-#     max-description-length: 75
-#     sort: 
-#       - "date desc"
-#       - "title asc"
 ---
 
 ::: {#hero-heading}
-<!-- I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io). -->
-
-<!-- I'm a template that you can fork to build your own website with easy adaptation and deployment. -->
-
-<!-- 1. Star this repository so you can easily come back to the template -->
-
-<!-- 1. Folk this tempate and rename it to `yourgithubusername.github.io` -->
-
-<!-- 1. Update and edit `_quarto.yml` file for website setup -->
-
-<!-- 1. Update and add contents to `/posts`, `teaching.qmd`, `projects.yml`, and `people.qmd` and `/people` as needed. -->
-
-<!-- 1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub. -->
-
-<!-- 1. Polish and fix any issues -->
-
-<!-- 1. Enjoy your website! -->
-
-I am a PhD candidate in Geography at *The Chinese University of Hong Kong* ([CUHK](https://www.cuhk.edu.hk/)), supervised by [Prof. Mei-Po Kwan](http://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](http://www.iseis.cuhk.edu.hk/en/)).
+I am a PhD candidate in Geography at *The Chinese University of Hong Kong* ([CUHK](https://www.cuhk.edu.hk/)), supervised by [Prof. Mei-Po Kwan](https://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](https://www.iseis.cuhk.edu.hk/en/)).
 
 I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:
 
@@ -94,9 +49,6 @@ I am interested in human mobility, travel behavior, and the relationship between
 2.  The application of spatial data science and machine learning in urban studies.
 3.  Advancing methods for spatial analysis and causal inference in human-environment interactions.
 
-<!-- ## Experience -->
-
-<!-- - Researcher, Univerisity -->
 <div style="margin-bottom: 3em;"></div>
 
 
