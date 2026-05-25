@@ -14,10 +14,8 @@ css: custom.css
 
 Notes:
 
-- \* corresponding author
-- <sup>GS</sup> graduate student advisee
-- ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%)
-- ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
+- \* corresponding author; <sup>GS</sup> graduate student advisee
+- ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
 
 <!-- Total citations as of January 2025: -->
 
@@ -52,9 +50,13 @@ for (pub in pubs) {
   }
   badge_suffix <- if (length(badges) > 0) paste0(" ", paste(badges, collapse = " ")) else ""
   author_mark <- if (isTRUE(pub$is_corresponding)) " *" else ""
+  metrics <- sprintf(
+    '<span class="__dimensions_badge_embed__" data-doi="%s" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="%s" data-hide-no-mentions="true" class="altmetric-embed"></div>',
+    pub$doi, pub$doi
+  )
   entry <- sprintf(
-    '<div class="pub-item">%s%s (%s). %s. %s%s<div class="pub-links">[<a href="%s">doi</a>]</div></div>\n',
-    pub$authors, author_mark, pub$year, pub$title, meta, badge_suffix, doi_url
+    '<div class="pub-item">%s%s (%s). %s. %s%s<div class="pub-links">[<a href="%s">doi</a>] %s</div></div>\n',
+    pub$authors, author_mark, pub$year, pub$title, meta, badge_suffix, doi_url, metrics
   )
   cat(entry)
 }

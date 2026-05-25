@@ -15,3 +15,9 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
 .pub-links {
   margin-top: 0.15rem;
 }
+
+.pub-links .__dimensions_badge_embed__,
+.pub-links .altmetric-embed {
+  margin-left: 0.35rem;
+  vertical-align: middle;
+}
