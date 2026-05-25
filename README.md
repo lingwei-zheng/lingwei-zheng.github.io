@@ -28,4 +28,10 @@ Render the site into `docs/`:
 quarto render
 ```
 
+Validate publication data before rendering:
+
+```bash
+python scripts/validate_publications.py
+```
+
 Before pushing content changes, inspect both the source `.qmd` files and the rendered `docs/` changes.

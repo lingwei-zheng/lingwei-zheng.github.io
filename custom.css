@@ -3,3 +3,15 @@
 span.__dimensions_badge_embed__, div.altmetric-embed {
   display: inline-block;
 }
+
+.pub-list {
+  margin-bottom: 2.5rem;
+}
+
+.pub-item {
+  margin-bottom: 1rem;
+}
+
+.pub-links {
+  margin-top: 0.15rem;
+}

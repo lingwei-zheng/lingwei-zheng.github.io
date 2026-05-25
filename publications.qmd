@@ -12,7 +12,12 @@ css: custom.css
 {{< include /files/includes/_academic.qmd >}}
 
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
+Notes:
+
+- \* corresponding author
+- <sup>GS</sup> graduate student advisee
+- ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%)
+- ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%)
 
 <!-- Total citations as of January 2025: -->
 
@@ -21,47 +26,40 @@ Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; ![](http
 
 ## Peer-reviewed articles
 
-<!-- Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width="20" fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width="20" fig-alt="Hot paper"} -->
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+#| results: asis
 
-<!-- ::: {.altmetric-embed data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true"} -->
-<!-- ::: -->
-- Cui, Y., Liu, Y., Kwan, M.-P., & **Zheng, L.** (2026). Beyond residential exposure: Mobility-oriented outdoor artificial light at night and its lagged associations with sleep. *Environmental Research*, 300, 124443. 
- \[[doi](https://doi.org/10.1016/j.envres.2026.124443)\]
+library(yaml)
 
-<div style="margin-bottom: 1em;"></div>
+badge_map <- list(
+  highly_cited = '<img src="https://drganghe.github.io/files/images/highly-cited-paper-badge.png" title="ESI Highly Cited Paper" alt="Highly cited paper" width="20" />',
+  hot_paper = '<img src="https://drganghe.github.io/files/images/hot-paper-badge.png" title="ESI Hot Paper" alt="Hot paper" width="20" />'
+)
 
-- **Zheng, L.**, Song, Q., Kwan, M.-P., Van Ameijde, J., Tian, S., & Zheng, Y. (2026). A large language model framework for urban perception mapping: Linking greenspace patterns and park attractiveness across the pandemic. *Computers, Environment and Urban Systems*, 127, 102433. 
- \[[doi](https://doi.org/10.1016/j.compenvurbsys.2026.102433)\]
+pubs <- read_yaml("files/data/publications.yml")
+pubs <- pubs[order(vapply(pubs, function(x) x$year, numeric(1L)), decreasing = TRUE)]
 
-<div style="margin-bottom: 1em;"></div>
-
-- Song, Q., Tian, S., **Zheng, L.**, Zheng, Y., Qiu, L., Huang, B., & Ameijde, J. van. (2026). Beyond sentiment: Using large language models to decode multidimensional urban park perceptions for enhanced equality. *Landscape and Urban Planning*, 268, 105571. \[[doi](https://doi.org/10.1016/j.landurbplan.2025.105571)\]
-
-<div style="margin-bottom: 1em;"></div>
-
-- Liu, Y., Kwan, M.-P., **Zheng, L.**, & Wang, J. (2025). Decomposing discrete effective buffer sizes for residential green space exposure measures: Insights from urban green space fragments. *Urban Forestry & Urban Greening*, 113, 129122. \[[doi](https://doi.org/10.1016/j.ufug.2025.129122)\]
-
-<div style="margin-bottom: 1em;"></div>
-
-- **Zheng, L.**, Kwan, M.-P., Liu, Y. (2025). Greenspace morphology and mental well-being: a mobility-based study on urban stress and emotion. *Ecological Indicators*. 178, 114090. \[[doi](https://doi.org/10.1016/j.ecolind.2025.114090)\]
-
-<div style="margin-bottom: 1em;"></div>
-
-- **Zheng, L.**, Kwan, M.-P., Huang, J., & Liu, D. (2025). Exploring the interaction between perceived risk and travel flexibility in daily mobility change: Evidence from Hong Kong’s COVID-19 pandemic. *Travel Behaviour and Society*, 40, 101015. \[[doi](https://doi.org/10.1016/j.tbs.2025.101015)\]
-
-<div style="margin-bottom: 1em;"></div>
-
-- **Zheng, L.**, Kwan, M.-P., Liu, Y., Liu, D., Huang, J., & Kan, Z. (2024). How mobility pattern shapes the association between static green space and dynamic green space exposure. *Environmental Research*, 258, 119499. \[[doi](https://doi.org/10.1016/j.envres.2024.119499)\]
-
-<div style="margin-bottom: 1em;"></div>
-
-- **Zheng, L.**, & Austwick, M. Z. (2023). Classifying station areas in greater manchester using the node-place-design model: A comparative analysis with system centrality and green space coverage. *Journal of Transport Geography*, 112, 103713. \[[doi](https://doi.org/10.1016/j.jtrangeo.2023.103713)\]
-
-<div style="margin-bottom: 1em;"></div>
-
-- **Zheng, L.**, & Li, Y. (2020). The development, characteristics and impact of bike sharing systems: A literature review. *International Review for Spatial Planning and Sustainable Development*, 8(2), 37–52. \[[doi](https://doi.org/10.14246/irspsd.8.2_37)\]
-
-<div style="margin-bottom: 2.5em;"></div>
+cat('<div class="pub-list">\n')
+for (pub in pubs) {
+  doi_url <- sprintf("https://doi.org/%s", pub$doi)
+  meta <- sprintf("<em>%s</em>, %s, %s.", pub$journal, pub$volume, pub$pages_or_article)
+  badges <- character(0)
+  if (!is.null(pub$badges) && length(pub$badges) > 0) {
+    badges <- unlist(badge_map[pub$badges], use.names = FALSE)
+  }
+  badge_suffix <- if (length(badges) > 0) paste0(" ", paste(badges, collapse = " ")) else ""
+  author_mark <- if (isTRUE(pub$is_corresponding)) " *" else ""
+  entry <- sprintf(
+    '<div class="pub-item">%s%s (%s). %s. %s%s<div class="pub-links">[<a href="%s">doi</a>]</div></div>\n',
+    pub$authors, author_mark, pub$year, pub$title, meta, badge_suffix, doi_url
+  )
+  cat(entry)
+}
+cat("</div>\n")
+```
 
 <!--Include social share buttons-->
 
