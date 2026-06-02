@@ -1,15 +1,30 @@
 
-/*Inline block*/
+/* Inline block */
 span.__dimensions_badge_embed__, div.altmetric-embed {
   display: inline-block;
 }
 
+.entry-list,
 .pub-list {
   margin-bottom: 2.5rem;
 }
 
+.entry-item,
 .pub-item {
   margin-bottom: 1rem;
+}
+
+.entry-group {
+  margin-bottom: 2rem;
+}
+
+.entry-group h3 {
+  margin-bottom: 0.75rem;
+}
+
+.entry-label {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
 }
 
 .pub-links {
