@@ -41,13 +41,13 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a PhD candidate in Geography at *The Chinese University of Hong Kong* ([CUHK](https://www.cuhk.edu.hk/)), supervised by [Prof. Mei-Po Kwan](https://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I also serve as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)) and Institute of Space and Earth Information Science ([ISEIS](https://www.iseis.cuhk.edu.hk/en/)).
+I am a **postdoctoral researcher** at the Institute of Space and Earth Information Science ([ISEIS](https://www.iseis.cuhk.edu.hk/en/)), *The Chinese University of Hong Kong* ([CUHK](https://www.cuhk.edu.hk/)). I received my PhD in Geography from CUHK in July 2026, supervised by [Prof. Mei-Po Kwan](https://meipokwan.org/) and [Prof. Zihan Kan](https://www.zihankan.com/). I previously served as a research fellow at the Computational Social Science Laboratory ([CSSL\@CUHK](https://cssl.socsc.cuhk.edu.hk/)).
 
-I am interested in human mobility, travel behavior, and the relationship between urban environments and well-being. My research focuses on:
+My research examines how **human mobility** shapes exposure to urban environments and its implications for **health and well-being**. I combine spatial data science, machine learning, and mobility-based approaches to study human–environment interactions. My research focuses on:
 
-1.  How urban characteristics influence mobility and public well-being.
-2.  The application of spatial data science and machine learning in urban studies.
-3.  Advancing methods for spatial analysis and causal inference in human-environment interactions.
+1.  How urban environments and daily mobility jointly shape environmental exposure and well-being.
+2.  Applications of spatial data science and machine learning to understanding urban environments and human behavior.
+3.  Spatial analysis and causal inference methods for studying human–environment interactions.
 
 <div style="margin-bottom: 3em;"></div>
 
@@ -72,7 +72,7 @@ I am interested in human mobility, travel behavior, and the relationship between
 
 <!--     -   Ritsumeikan Asia Pacific University, Beppu, Japan -->
 
--   Geography, PhD Candidate, *The Chinese University of Hong Kong* \([GRM](https://www.grm.cuhk.edu.hk/en/))\
+-   Geography, PhD, *The Chinese University of Hong Kong* \([GRM](https://www.grm.cuhk.edu.hk/en/))\
 -   Spatial Data Science, MRes, *University College London* \([CASA](https://www.ucl.ac.uk/bartlett/casa))\
 -   Environment and Development, BSocSc, *Ritsumeikan Asia Pacific University* \([ST](https://en.apu.ac.jp/st/))\
 
