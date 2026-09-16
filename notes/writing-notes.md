@@ -19,5 +19,6 @@
 
 ## Reusable Wording
 
-- Research focus can be summarized as mobility-aware spatial data science for urban environment and well-being studies.
+- Keep the homepage research interests broad and concise: human mobility, urban environments, health and well-being, with spatial data science and quantitative methods for studying human–environment interactions. Use one short paragraph rather than a detailed research agenda.
+- Use regular-weight text in the introductory paragraphs, with no bold emphasis; do not italicize the university name in the first paragraph. Education and other sections retain their existing formatting.
 - The site should keep a concise academic profile tone rather than a marketing tone.
