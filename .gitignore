@@ -1,3 +1,6 @@
 /.quarto/
 .Rproj.user
 .Rhistory
+
+# Local CV workspace (OneDrive-synced; contains private application materials).
+/cv/

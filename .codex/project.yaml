@@ -39,6 +39,21 @@ paths:
     state: "sync/sync_state.json"
     sessions_log: "sync/sessions.log"
 
+  cv:
+    workspace: "cv"
+    config: "cv/_quarto.yml"
+    source_zh: "cv/cv-zh.qmd"
+    source_en: "cv/cv-en.qmd"
+    build: "cv/build.ps1"
+    sync_website: "cv/sync-website.ps1"
+    readme: "cv/README.md"
+    originals: "cv/originals"
+    audit: "cv/audit/review-2026-09-18.md"
+    output: "cv/output"
+    public_pdf: "files/Lingwei_s_Resume.pdf"
+    publications_source: "files/data/publications.yml"
+    version_control: "local-only; excluded from public Git repository"
+
 compatibility:
   fallback_policy: "Use documented skill defaults when a key is missing, and record important fallbacks in HANDOFF.md."
   preserve_other_skill_state: true

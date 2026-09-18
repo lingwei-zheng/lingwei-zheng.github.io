@@ -4,6 +4,9 @@ project:
   render:
     - "*.qmd"
     - "posts/**/*.qmd"
+    - "!cv/**"
+  resources:
+    - "!cv/**"
 
 # Meta
 description-meta: "Lingwei's Homepage"
