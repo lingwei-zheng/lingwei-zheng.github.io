@@ -14,11 +14,11 @@ css: custom.css
 ::: {.entry-list}
 
 ::: {.entry-item}
-**Zheng L**. Greenspace morphology and mental well-being: a mobility-based study on urban stress and emotion. [*2026 International Workshop on Geography and Sustainability*](https://geosus.iseis.cuhk.edu.hk/), The Chinese University of Hong Kong, Hong Kong, China. November 2026. Accepted for presentation.
+**Zheng L**. Greenspace Morphology and Mental Well-Being: A Mobility-Based Study on Urban Stress and Emotion. [*2026 International Workshop on Geography and Sustainability*](https://geosus.iseis.cuhk.edu.hk/), Hong Kong, China. November 2026.
 :::
 
 ::: {.entry-item}
-**Zheng L**. Greenspace Morphology and Momentary Mental Well-Being: A Mobility-Based Analysis of Urban Exposure. [*33rd International Conference on Geoinformatics (Geoinformatics 2026)*](https://blog.nus.edu.sg/cpgis2026/), National University of Singapore, Singapore. July 2026. Accepted for presentation.
+**Zheng L**. Greenspace Morphology and Momentary Mental Well-Being: A Mobility-Based Analysis of Urban Exposure. [*33rd International Conference on Geoinformatics (Geoinformatics 2026)*](https://blog.nus.edu.sg/cpgis2026/), Singapore. July 2026.
 :::
 
 ::: {.entry-item}
