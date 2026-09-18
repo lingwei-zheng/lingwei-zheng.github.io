@@ -51,10 +51,14 @@ def main() -> int:
         if not isinstance(year, int):
             errors.append(f"item {idx}: year must be an integer")
 
-        for text_field in ["authors", "title", "journal", "volume", "pages_or_article", "doi"]:
+        for text_field in ["authors", "title", "journal", "pages_or_article", "doi"]:
             value = item.get(text_field)
             if not isinstance(value, str) or not value.strip():
                 errors.append(f"item {idx}: '{text_field}' must be a non-empty string")
+
+        # Online-first articles may not yet have an assigned volume.
+        if not isinstance(item.get("volume"), str):
+            errors.append(f"item {idx}: 'volume' must be a string (empty if unassigned)")
 
         doi = item.get("doi")
         if isinstance(doi, str) and not DOI_RE.match(doi):

@@ -43,7 +43,8 @@ pubs <- pubs[order(vapply(pubs, function(x) x$year, numeric(1L)), decreasing = T
 cat('<div class="pub-list">\n')
 for (pub in pubs) {
   doi_url <- sprintf("https://doi.org/%s", pub$doi)
-  meta <- sprintf("<em>%s</em>, %s, %s.", pub$journal, pub$volume, pub$pages_or_article)
+  meta_parts <- c(sprintf("<em>%s</em>", pub$journal), pub$volume, pub$pages_or_article)
+  meta <- paste0(paste(meta_parts[nzchar(trimws(meta_parts))], collapse = ", "), ".")
   badges <- character(0)
   if (!is.null(pub$badges) && length(pub$badges) > 0) {
     badges <- unlist(badge_map[pub$badges], use.names = FALSE)
