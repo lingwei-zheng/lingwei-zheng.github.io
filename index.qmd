@@ -21,7 +21,7 @@ about:
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:lingwei.zheng@link.cuhk.edu.hk    
+      href: mailto:lingweizheng@cuhk.edu.hk
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/lingwei-zheng-4701571b2
