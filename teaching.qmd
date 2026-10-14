@@ -23,6 +23,8 @@ css: custom.css
 -   Journal of Transport Geography
 -   Travel Behaviour & Society
 -   Humanities and Social Sciences Communications
+-   Health & Place
+-   Urban Forestry & Urban Greening
 
 ### Conference/Workshop Chair, Organizer, Moderator & Discussant
 
